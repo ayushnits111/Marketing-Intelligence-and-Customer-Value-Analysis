@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Campaign_ID,Acquisition_Date,Age,Gender,Lead_Source,Device,Location,Previous_Purchases,Converted
+CU0001,Customer 0001,C007,2025-03-21,18,Female,Google Ads,Desktop,Jaipur,2,1
+CU0002,Customer 0002,C009,2025-03-09,50,Female,Facebook,Mobile,Pune,2,0
+CU0003,Customer 0003,C017,2025-06-25,29,Male,YouTube,Desktop,Mumbai,0,1
+CU0004,Customer 0004,C017,2025-07-05,19,Male,YouTube,Mobile,Chennai,0,0
+CU0005,Customer 0005,C019,2025-05-25,43,Male,Google Ads,Mobile,Chennai,2,0
+CU0006,Customer 0006,C005,2025-03-06,23,Male,YouTube,Mobile,Guwahati,0,0
+CU0007,Customer 0007,C016,2025-05-28,20,Male,Email,Mobile,Bengaluru,0,1
+CU0008,Customer 0008,C019,2025-06-12,49,Female,Google Ads,Mobile,Guwahati,1,0
+CU0009,Customer 0009,C011,2025-04-17,42,Male,YouTube,Tablet,Ahmedabad,0,0
+CU0010,Customer 0010,C016,2025-06-20,19,Female,Email,Mobile,Kolkata,2,1
+CU0011,Customer 0011,C016,2025-05-15,20,Male,Email,Desktop,Pune,5,1
+CU0012,Customer 0012,C003,2025-02-09,46,Male,Facebook,Mobile,Delhi,1,0
+CU0013,Customer 0013,C004,2025-02-25,21,Female,Email,Mobile,Bengaluru,1,1
+CU0014,Customer 0014,C001,2025-02-17,29,Female,Google Ads,Mobile,Chennai,0,1
+CU0015,Customer 0015,C006,2025-02-21,25,Female,LinkedIn,Mobile,Kolkata,1,1
+CU0016,Customer 0016,C005,2025-02-19,21,Female,YouTube,Desktop,Guwahati,2,0
+CU0017,Customer 0017,C009,2025-03-09,41,Female,Facebook,Mobile,Kolkata,2,1
+CU0018,Customer 0018,C001,2025-01-03,35,Female,Google Ads,Mobile,Hyderabad,2,1
+CU0019,Customer 0019,C002,2025-02-03,59,Male,Instagram,Mobile,Pune,2,1
+CU0020,Customer 0020,C003,2025-02-09,41,Female,Facebook,Mobile,Chennai,2,0
+CU0021,Customer 0021,C016,2025-05-13,29,Female,Email,Mobile,Delhi,0,1
+CU0022,Customer 0022,C019,2025-06-17,39,Male,Google Ads,Desktop,Guwahati,0,0
+CU0023,Customer 0023,C011,2025-05-19,54,Female,YouTube,Desktop,Kolkata,2,1
+CU0024,Customer 0024,C003,2025-02-24,33,Female,Facebook,Tablet,Ahmedabad,1,1
+CU0025,Customer 0025,C005,2025-02-26,40,Female,YouTube,Desktop,Kolkata,0,0
+CU0026,Customer 0026,C015,2025-05-25,49,Male,Facebook,Mobile,Jaipur,1,0
+CU0027,Customer 0027,C007,2025-02-21,39,Female,Google Ads,Mobile,Ahmedabad,1,1
+CU0028,Customer 0028,C014,2025-05-11,22,Female,Instagram,Mobile,Bengaluru,0,1
+CU0029,Customer 0029,C016,2025-05-20,56,Male,Email,Mobile,Kolkata,1,1
+CU0030,Customer 0030,C002,2025-02-07,27,Male,Instagram,Tablet,Guwahati,2,0
+CU0031,Customer 0031,C002,2025-02-04,49,Female,Instagram,Desktop,Delhi,1,0
+CU0032,Customer 0032,C011,2025-04-26,29,Female,YouTube,Desktop,Pune,1,1
+CU0033,Customer 0033,C014,2025-04-15,52,Female,Instagram,Mobile,Pune,1,1
+CU0034,Customer 0034,C019,2025-05-30,21,Male,Google Ads,Desktop,Pune,2,1
+CU0035,Customer 0035,C009,2025-03-07,52,Male,Facebook,Mobile,Guwahati,1,0
+CU0036,Customer 0036,C005,2025-02-12,30,Female,YouTube,Desktop,Jaipur,1,0
+CU0037,Customer 0037,C013,2025-04-24,53,Male,Google Ads,Tablet,Mumbai,0,1
+CU0038,Customer 0038,C014,2025-05-14,36,Male,Instagram,Desktop,Kolkata,0,0
+CU0039,Customer 0039,C020,2025-06-27,38,Male,Instagram,Tablet,Jaipur,0,0
+CU0040,Customer 0040,C007,2025-03-02,48,Male,Google Ads,Mobile,Chennai,3,0
+CU0041,Customer 0041,C017,2025-06-14,24,Male,YouTube,Desktop,Ahmedabad,2,1
+CU0042,Customer 0042,C006,2025-02-27,25,Male,LinkedIn,Desktop,Hyderabad,4,1
+CU0043,Customer 0043,C012,2025-05-06,44,Male,LinkedIn,Desktop,Chennai,1,1
+CU0044,Customer 0044,C020,2025-06-08,58,Female,Instagram,Desktop,Jaipur,1,0
+CU0045,Customer 0045,C006,2025-03-01,23,Male,LinkedIn,Mobile,Kolkata,0,0
+CU0046,Customer 0046,C005,2025-03-08,52,Female,YouTube,Tablet,Delhi,0,1
+CU0047,Customer 0047,C015,2025-05-22,18,Female,Facebook,Desktop,Mumbai,1,1
+CU0048,Customer 0048,C016,2025-05-07,55,Male,Email,Mobile,Kolkata,0,1
+CU0049,Customer 0049,C008,2025-03-22,45,Male,Instagram,Mobile,Bengaluru,3,0
+CU0050,Customer 0050,C016,2025-05-28,30,Male,Email,Mobile,Hyderabad,3,0
+CU0051,Customer 0051,C018,2025-06-29,22,Female,LinkedIn,Mobile,Hyderabad,2,1
+CU0052,Customer 0052,C017,2025-05-20,50,Male,YouTube,Mobile,Guwahati,0,1
+CU0053,Customer 0053,C017,2025-05-12,48,Female,YouTube,Tablet,Kolkata,3,1
+CU0054,Customer 0054,C009,2025-03-18,18,Female,Facebook,Mobile,Bengaluru,0,0
+CU0055,Customer 0055,C002,2025-02-04,48,Male,Instagram,Mobile,Ahmedabad,2,0
+CU0056,Customer 0056,C012,2025-04-02,47,Male,LinkedIn,Desktop,Guwahati,0,1
+CU0057,Customer 0057,C015,2025-05-28,38,Male,Facebook,Desktop,Mumbai,4,1
+CU0058,Customer 0058,C019,2025-06-26,55,Female,Google Ads,Desktop,Chennai,2,1
+CU0059,Customer 0059,C017,2025-05-17,34,Male,YouTube,Mobile,Kolkata,2,0
+CU0060,Customer 0060,C016,2025-05-10,40,Female,Email,Mobile,Hyderabad,1,1
+CU0061,Customer 0061,C003,2025-02-16,20,Female,Facebook,Desktop,Delhi,1,0
+CU0062,Customer 0062,C018,2025-06-12,59,Female,LinkedIn,Mobile,Hyderabad,0,1
+CU0063,Customer 0063,C014,2025-05-17,31,Male,Instagram,Desktop,Jaipur,0,1
+CU0064,Customer 0064,C015,2025-05-21,60,Female,Facebook,Mobile,Guwahati,0,0
+CU0065,Customer 0065,C017,2025-06-11,32,Female,YouTube,Mobile,Hyderabad,0,0
+CU0066,Customer 0066,C014,2025-05-07,19,Female,Instagram,Mobile,Pune,0,0
+CU0067,Customer 0067,C014,2025-05-26,35,Male,Instagram,Mobile,Mumbai,0,1
+CU0068,Customer 0068,C005,2025-02-28,27,Female,YouTube,Mobile,Chennai,0,0
+CU0069,Customer 0069,C017,2025-05-20,37,Female,YouTube,Desktop,Mumbai,2,0
+CU0070,Customer 0070,C015,2025-04-29,57,Female,Facebook,Mobile,Ahmedabad,0,1
+CU0071,Customer 0071,C002,2025-01-13,54,Female,Instagram,Mobile,Hyderabad,0,1
+CU0072,Customer 0072,C016,2025-05-03,47,Female,Email,Mobile,Pune,1,1
+CU0073,Customer 0073,C008,2025-03-01,53,Male,Instagram,Mobile,Delhi,2,0
+CU0074,Customer 0074,C006,2025-02-27,19,Female,LinkedIn,Mobile,Ahmedabad,0,0
+CU0075,Customer 0075,C006,2025-03-02,21,Female,LinkedIn,Mobile,Bengaluru,0,1
+CU0076,Customer 0076,C014,2025-05-21,54,Male,Instagram,Mobile,Bengaluru,1,1
+CU0077,Customer 0077,C010,2025-03-17,40,Male,Email,Tablet,Pune,1,1
+CU0078,Customer 0078,C017,2025-05-16,28,Female,YouTube,Mobile,Chennai,1,0
+CU0079,Customer 0079,C012,2025-05-17,31,Female,LinkedIn,Desktop,Jaipur,0,1
+CU0080,Customer 0080,C001,2025-02-09,39,Male,Google Ads,Desktop,Pune,4,1
+CU0081,Customer 0081,C014,2025-05-09,21,Female,Instagram,Desktop,Jaipur,2,0
+CU0082,Customer 0082,C006,2025-02-09,40,Female,LinkedIn,Mobile,Jaipur,1,1
+CU0083,Customer 0083,C008,2025-03-04,56,Female,Instagram,Mobile,Mumbai,1,1
+CU0084,Customer 0084,C015,2025-05-20,50,Male,Facebook,Desktop,Bengaluru,4,1
+CU0085,Customer 0085,C002,2025-01-17,22,Female,Instagram,Desktop,Hyderabad,1,0
+CU0086,Customer 0086,C020,2025-06-24,32,Female,Instagram,Mobile,Bengaluru,3,1
+CU0087,Customer 0087,C011,2025-04-16,22,Male,YouTube,Mobile,Ahmedabad,1,1
+CU0088,Customer 0088,C014,2025-05-26,29,Male,Instagram,Mobile,Delhi,1,0
+CU0089,Customer 0089,C012,2025-05-11,53,Male,LinkedIn,Desktop,Pune,0,0
+CU0090,Customer 0090,C017,2025-06-04,48,Male,YouTube,Mobile,Mumbai,3,1
+CU0091,Customer 0091,C014,2025-05-19,40,Female,Instagram,Mobile,Hyderabad,2,1
+CU0092,Customer 0092,C009,2025-03-14,43,Female,Facebook,Mobile,Bengaluru,2,1
+CU0093,Customer 0093,C002,2025-02-03,34,Male,Instagram,Mobile,Mumbai,0,0
+CU0094,Customer 0094,C020,2025-06-06,41,Female,Instagram,Mobile,Hyderabad,0,1
+CU0095,Customer 0095,C017,2025-05-14,34,Male,YouTube,Mobile,Bengaluru,1,0
+CU0096,Customer 0096,C017,2025-05-14,18,Male,YouTube,Mobile,Chennai,2,1
+CU0097,Customer 0097,C017,2025-06-21,46,Male,YouTube,Desktop,Mumbai,0,0
+CU0098,Customer 0098,C015,2025-04-23,45,Female,Facebook,Mobile,Hyderabad,1,1
+CU0099,Customer 0099,C007,2025-02-19,49,Male,Google Ads,Mobile,Delhi,1,1
+CU0100,Customer 0100,C018,2025-05-22,46,Male,LinkedIn,Mobile,Chennai,0,1
+CU0101,Customer 0101,C008,2025-03-18,54,Female,Instagram,Desktop,Pune,0,1
+CU0102,Customer 0102,C014,2025-05-15,60,Male,Instagram,Mobile,Kolkata,0,1
+CU0103,Customer 0103,C016,2025-05-17,24,Male,Email,Mobile,Chennai,1,0
+CU0104,Customer 0104,C018,2025-05-17,18,Female,LinkedIn,Desktop,Ahmedabad,1,1
+CU0105,Customer 0105,C020,2025-06-05,54,Male,Instagram,Desktop,Jaipur,1,0
+CU0106,Customer 0106,C012,2025-04-21,34,Male,LinkedIn,Mobile,Chennai,2,1
+CU0107,Customer 0107,C008,2025-02-26,42,Female,Instagram,Mobile,Hyderabad,3,1
+CU0108,Customer 0108,C011,2025-03-26,35,Male,YouTube,Mobile,Bengaluru,1,1
+CU0109,Customer 0109,C006,2025-02-20,40,Female,LinkedIn,Mobile,Kolkata,0,1
+CU0110,Customer 0110,C008,2025-02-26,29,Female,Instagram,Desktop,Chennai,2,0
+CU0111,Customer 0111,C014,2025-04-15,60,Female,Instagram,Mobile,Bengaluru,1,0
+CU0112,Customer 0112,C011,2025-04-25,56,Male,YouTube,Mobile,Delhi,2,1
+CU0113,Customer 0113,C004,2025-02-12,36,Female,Email,Desktop,Guwahati,1,1
+CU0114,Customer 0114,C002,2025-01-16,26,Male,Instagram,Desktop,Jaipur,2,1
+CU0115,Customer 0115,C018,2025-06-21,47,Male,LinkedIn,Mobile,Mumbai,1,0
+CU0116,Customer 0116,C017,2025-05-17,29,Male,YouTube,Tablet,Mumbai,3,0
+CU0117,Customer 0117,C018,2025-06-09,29,Female,LinkedIn,Desktop,Jaipur,1,0
+CU0118,Customer 0118,C007,2025-03-05,40,Male,Google Ads,Mobile,Ahmedabad,1,0
+CU0119,Customer 0119,C019,2025-05-31,40,Female,Google Ads,Mobile,Bengaluru,1,0
+CU0120,Customer 0120,C017,2025-05-21,48,Male,YouTube,Mobile,Delhi,2,1
+CU0121,Customer 0121,C007,2025-03-03,21,Female,Google Ads,Desktop,Delhi,1,0
+CU0122,Customer 0122,C002,2025-02-11,59,Male,Instagram,Mobile,Chennai,0,1
+CU0123,Customer 0123,C003,2025-02-23,46,Male,Facebook,Mobile,Kolkata,1,1
+CU0124,Customer 0124,C010,2025-04-11,42,Female,Email,Mobile,Kolkata,1,1
+CU0125,Customer 0125,C018,2025-05-19,35,Male,LinkedIn,Mobile,Guwahati,1,1
+CU0126,Customer 0126,C004,2025-02-04,54,Female,Email,Mobile,Hyderabad,6,1
+CU0127,Customer 0127,C019,2025-06-02,60,Male,Google Ads,Mobile,Jaipur,0,0
+CU0128,Customer 0128,C006,2025-02-13,22,Male,LinkedIn,Tablet,Guwahati,2,1
+CU0129,Customer 0129,C003,2025-02-02,34,Male,Facebook,Desktop,Mumbai,0,1
+CU0130,Customer 0130,C015,2025-05-16,26,Male,Facebook,Mobile,Delhi,1,1
+CU0131,Customer 0131,C009,2025-03-07,42,Male,Facebook,Desktop,Jaipur,2,1
+CU0132,Customer 0132,C015,2025-05-29,25,Female,Facebook,Desktop,Ahmedabad,2,0
+CU0133,Customer 0133,C013,2025-04-22,57,Female,Google Ads,Mobile,Mumbai,1,0
+CU0134,Customer 0134,C013,2025-05-20,50,Male,Google Ads,Mobile,Pune,0,1
+CU0135,Customer 0135,C016,2025-06-09,30,Female,Email,Mobile,Kolkata,3,0
+CU0136,Customer 0136,C019,2025-06-23,40,Male,Google Ads,Mobile,Kolkata,1,0
+CU0137,Customer 0137,C014,2025-04-26,46,Male,Instagram,Mobile,Guwahati,1,1
+CU0138,Customer 0138,C013,2025-05-10,23,Female,Google Ads,Desktop,Ahmedabad,2,1
+CU0139,Customer 0139,C005,2025-03-01,39,Male,YouTube,Mobile,Bengaluru,0,1
+CU0140,Customer 0140,C017,2025-05-19,39,Female,YouTube,Mobile,Guwahati,0,1
+CU0141,Customer 0141,C018,2025-07-04,31,Male,LinkedIn,Desktop,Bengaluru,2,1
+CU0142,Customer 0142,C001,2025-01-06,32,Male,Google Ads,Desktop,Ahmedabad,0,1
+CU0143,Customer 0143,C002,2025-02-05,21,Female,Instagram,Mobile,Jaipur,0,0
+CU0144,Customer 0144,C011,2025-05-11,49,Male,YouTube,Desktop,Bengaluru,1,0
+CU0145,Customer 0145,C012,2025-04-25,46,Female,LinkedIn,Desktop,Kolkata,1,1
+CU0146,Customer 0146,C003,2025-01-16,55,Female,Facebook,Desktop,Mumbai,0,0
+CU0147,Customer 0147,C012,2025-04-15,32,Male,LinkedIn,Mobile,Pune,0,1
+CU0148,Customer 0148,C008,2025-03-11,44,Male,Instagram,Mobile,Chennai,1,1
+CU0149,Customer 0149,C003,2025-02-04,32,Female,Facebook,Mobile,Chennai,0,0
+CU0150,Customer 0150,C004,2025-02-01,55,Male,Email,Mobile,Hyderabad,1,0
+CU0151,Customer 0151,C011,2025-04-02,34,Male,YouTube,Mobile,Delhi,1,1
+CU0152,Customer 0152,C013,2025-04-30,50,Male,Google Ads,Desktop,Pune,2,1
+CU0153,Customer 0153,C014,2025-05-15,32,Male,Instagram,Mobile,Bengaluru,1,0
+CU0154,Customer 0154,C001,2025-01-02,50,Female,Google Ads,Desktop,Guwahati,1,1
+CU0155,Customer 0155,C006,2025-02-15,43,Male,LinkedIn,Desktop,Delhi,0,0
+CU0156,Customer 0156,C008,2025-03-07,20,Female,Instagram,Mobile,Hyderabad,2,0
+CU0157,Customer 0157,C008,2025-03-14,45,Male,Instagram,Desktop,Chennai,2,0
+CU0158,Customer 0158,C003,2025-02-25,59,Male,Facebook,Mobile,Hyderabad,2,0
+CU0159,Customer 0159,C019,2025-06-28,25,Female,Google Ads,Desktop,Chennai,0,1
+CU0160,Customer 0160,C006,2025-02-26,36,Male,LinkedIn,Mobile,Pune,2,0
+CU0161,Customer 0161,C015,2025-05-24,24,Male,Facebook,Mobile,Kolkata,2,1
+CU0162,Customer 0162,C012,2025-04-17,41,Male,LinkedIn,Desktop,Jaipur,2,0
+CU0163,Customer 0163,C002,2025-02-12,23,Female,Instagram,Mobile,Mumbai,0,1
+CU0164,Customer 0164,C003,2025-03-01,35,Male,Facebook,Desktop,Guwahati,0,0
+CU0165,Customer 0165,C016,2025-05-29,40,Male,Email,Mobile,Delhi,0,0
+CU0166,Customer 0166,C013,2025-05-16,31,Male,Google Ads,Mobile,Bengaluru,1,1
+CU0167,Customer 0167,C002,2025-02-11,54,Female,Instagram,Mobile,Pune,1,1
+CU0168,Customer 0168,C011,2025-03-30,20,Male,YouTube,Mobile,Ahmedabad,1,1
+CU0169,Customer 0169,C005,2025-02-20,25,Female,YouTube,Tablet,Jaipur,0,1
+CU0170,Customer 0170,C011,2025-04-26,54,Male,YouTube,Mobile,Guwahati,2,0
+CU0171,Customer 0171,C020,2025-06-18,31,Male,Instagram,Mobile,Kolkata,1,1
+CU0172,Customer 0172,C006,2025-02-13,22,Female,LinkedIn,Mobile,Ahmedabad,1,0
+CU0173,Customer 0173,C002,2025-02-01,46,Female,Instagram,Mobile,Pune,1,0
+CU0174,Customer 0174,C020,2025-06-23,33,Male,Instagram,Mobile,Chennai,0,1
+CU0175,Customer 0175,C008,2025-03-02,22,Female,Instagram,Mobile,Delhi,2,1
+CU0176,Customer 0176,C018,2025-06-01,43,Male,LinkedIn,Desktop,Guwahati,0,0
+CU0177,Customer 0177,C014,2025-04-17,50,Female,Instagram,Mobile,Kolkata,2,1
+CU0178,Customer 0178,C006,2025-02-17,50,Female,LinkedIn,Tablet,Jaipur,0,1
+CU0179,Customer 0179,C011,2025-03-24,51,Female,YouTube,Desktop,Bengaluru,4,0
+CU0180,Customer 0180,C007,2025-03-13,38,Female,Google Ads,Desktop,Ahmedabad,1,1
+CU0181,Customer 0181,C001,2025-02-18,49,Female,Google Ads,Mobile,Hyderabad,0,1
+CU0182,Customer 0182,C014,2025-04-27,27,Male,Instagram,Mobile,Mumbai,5,1
+CU0183,Customer 0183,C016,2025-06-05,32,Male,Email,Mobile,Chennai,3,1
+CU0184,Customer 0184,C016,2025-06-15,32,Female,Email,Desktop,Mumbai,0,0
+CU0185,Customer 0185,C019,2025-06-26,31,Female,Google Ads,Mobile,Kolkata,0,1
+CU0186,Customer 0186,C015,2025-05-19,52,Male,Facebook,Mobile,Bengaluru,1,0
+CU0187,Customer 0187,C011,2025-03-27,48,Male,YouTube,Mobile,Chennai,0,0
+CU0188,Customer 0188,C010,2025-04-17,37,Male,Email,Mobile,Hyderabad,1,1
+CU0189,Customer 0189,C013,2025-04-27,38,Male,Google Ads,Mobile,Ahmedabad,0,1
+CU0190,Customer 0190,C010,2025-03-20,41,Male,Email,Mobile,Kolkata,1,0
+CU0191,Customer 0191,C007,2025-02-26,42,Male,Google Ads,Desktop,Ahmedabad,1,1
+CU0192,Customer 0192,C003,2025-02-28,51,Female,Facebook,Mobile,Guwahati,0,1
+CU0193,Customer 0193,C003,2025-02-12,24,Male,Facebook,Desktop,Jaipur,1,1
+CU0194,Customer 0194,C002,2025-02-11,24,Female,Instagram,Desktop,Ahmedabad,2,0
+CU0195,Customer 0195,C014,2025-05-02,21,Male,Instagram,Mobile,Chennai,1,0
+CU0196,Customer 0196,C004,2025-01-26,26,Male,Email,Mobile,Hyderabad,1,1
+CU0197,Customer 0197,C002,2025-01-12,44,Male,Instagram,Mobile,Hyderabad,2,1
+CU0198,Customer 0198,C006,2025-02-10,40,Male,LinkedIn,Desktop,Guwahati,2,1
+CU0199,Customer 0199,C004,2025-01-28,30,Female,Email,Desktop,Jaipur,0,1
+CU0200,Customer 0200,C016,2025-05-11,34,Male,Email,Desktop,Bengaluru,1,1
+CU0201,Customer 0201,C019,2025-05-28,37,Male,Google Ads,Desktop,Guwahati,2,1
+CU0202,Customer 0202,C007,2025-03-20,50,Female,Google Ads,Desktop,Hyderabad,0,1
+CU0203,Customer 0203,C004,2025-02-25,40,Male,Email,Mobile,Jaipur,0,0
+CU0204,Customer 0204,C009,2025-03-05,28,Female,Facebook,Mobile,Chennai,2,0
+CU0205,Customer 0205,C015,2025-05-13,54,Male,Facebook,Mobile,Guwahati,0,0
+CU0206,Customer 0206,C003,2025-02-14,41,Male,Facebook,Desktop,Hyderabad,0,1
+CU0207,Customer 0207,C014,2025-04-22,32,Female,Instagram,Mobile,Delhi,0,0
+CU0208,Customer 0208,C018,2025-05-25,42,Male,LinkedIn,Mobile,Hyderabad,1,1
+CU0209,Customer 0209,C016,2025-06-22,20,Female,Email,Mobile,Jaipur,1,1
+CU0210,Customer 0210,C004,2025-02-17,32,Male,Email,Mobile,Bengaluru,1,1
+CU0211,Customer 0211,C011,2025-03-22,40,Female,YouTube,Mobile,Kolkata,2,0
+CU0212,Customer 0212,C015,2025-04-30,40,Female,Facebook,Mobile,Kolkata,0,1
+CU0213,Customer 0213,C019,2025-05-30,33,Male,Google Ads,Mobile,Bengaluru,1,1
+CU0214,Customer 0214,C020,2025-06-20,53,Male,Instagram,Desktop,Delhi,0,0
+CU0215,Customer 0215,C003,2025-01-22,44,Male,Facebook,Mobile,Chennai,2,1
+CU0216,Customer 0216,C006,2025-02-23,38,Male,LinkedIn,Desktop,Pune,1,1
+CU0217,Customer 0217,C018,2025-06-29,38,Female,LinkedIn,Desktop,Bengaluru,1,0
+CU0218,Customer 0218,C020,2025-06-23,43,Male,Instagram,Mobile,Bengaluru,0,0
+CU0219,Customer 0219,C003,2025-02-25,46,Male,Facebook,Desktop,Ahmedabad,4,0
+CU0220,Customer 0220,C016,2025-05-28,50,Male,Email,Tablet,Pune,1,1
+CU0221,Customer 0221,C008,2025-03-13,32,Female,Instagram,Mobile,Pune,1,0
+CU0222,Customer 0222,C005,2025-02-08,30,Male,YouTube,Mobile,Guwahati,0,1
+CU0223,Customer 0223,C017,2025-05-12,37,Female,YouTube,Mobile,Bengaluru,1,0
+CU0224,Customer 0224,C019,2025-05-28,22,Male,Google Ads,Desktop,Pune,0,1
+CU0225,Customer 0225,C016,2025-05-27,34,Female,Email,Desktop,Pune,1,1
+CU0226,Customer 0226,C017,2025-06-12,21,Male,YouTube,Mobile,Jaipur,1,0
+CU0227,Customer 0227,C004,2025-02-04,44,Male,Email,Mobile,Kolkata,2,1
+CU0228,Customer 0228,C010,2025-03-27,34,Male,Email,Mobile,Jaipur,1,1
+CU0229,Customer 0229,C018,2025-06-06,47,Male,LinkedIn,Mobile,Mumbai,2,0
+CU0230,Customer 0230,C007,2025-02-28,58,Female,Google Ads,Mobile,Kolkata,3,1
+CU0231,Customer 0231,C011,2025-04-14,39,Male,YouTube,Mobile,Delhi,0,0
+CU0232,Customer 0232,C020,2025-06-27,48,Female,Instagram,Mobile,Pune,1,0
+CU0233,Customer 0233,C001,2025-02-25,20,Female,Google Ads,Mobile,Chennai,3,1
+CU0234,Customer 0234,C010,2025-03-28,25,Female,Email,Desktop,Mumbai,1,1
+CU0235,Customer 0235,C010,2025-04-15,60,Female,Email,Mobile,Chennai,2,1
+CU0236,Customer 0236,C004,2025-02-14,59,Male,Email,Desktop,Guwahati,0,0
+CU0237,Customer 0237,C020,2025-06-11,33,Female,Instagram,Desktop,Hyderabad,3,0
+CU0238,Customer 0238,C003,2025-02-10,54,Male,Facebook,Mobile,Pune,0,1
+CU0239,Customer 0239,C014,2025-04-17,37,Female,Instagram,Mobile,Bengaluru,2,1
+CU0240,Customer 0240,C020,2025-06-04,41,Male,Instagram,Mobile,Mumbai,0,0
+CU0241,Customer 0241,C017,2025-06-22,36,Male,YouTube,Desktop,Ahmedabad,2,1
+CU0242,Customer 0242,C004,2025-02-22,50,Male,Email,Mobile,Guwahati,4,1
+CU0243,Customer 0243,C004,2025-02-12,44,Female,Email,Mobile,Chennai,2,1
+CU0244,Customer 0244,C018,2025-05-18,30,Female,LinkedIn,Mobile,Hyderabad,0,1
+CU0245,Customer 0245,C013,2025-04-24,59,Female,Google Ads,Mobile,Mumbai,1,1
+CU0246,Customer 0246,C010,2025-03-17,53,Male,Email,Desktop,Chennai,3,1
+CU0247,Customer 0247,C014,2025-06-12,48,Male,Instagram,Desktop,Bengaluru,0,1
+CU0248,Customer 0248,C010,2025-04-11,39,Male,Email,Mobile,Chennai,1,1
+CU0249,Customer 0249,C010,2025-04-06,30,Male,Email,Mobile,Bengaluru,0,1
+CU0250,Customer 0250,C011,2025-05-16,38,Male,YouTube,Mobile,Chennai,0,1
+CU0251,Customer 0251,C011,2025-04-09,41,Female,YouTube,Desktop,Kolkata,0,1
+CU0252,Customer 0252,C014,2025-06-09,54,Male,Instagram,Tablet,Kolkata,1,0
+CU0253,Customer 0253,C019,2025-06-17,38,Male,Google Ads,Tablet,Jaipur,0,0
+CU0254,Customer 0254,C010,2025-03-19,39,Female,Email,Mobile,Pune,0,0
+CU0255,Customer 0255,C011,2025-04-30,56,Male,YouTube,Mobile,Delhi,0,0
+CU0256,Customer 0256,C001,2025-01-10,38,Female,Google Ads,Tablet,Jaipur,2,1
+CU0257,Customer 0257,C012,2025-04-21,57,Male,LinkedIn,Desktop,Ahmedabad,3,0
+CU0258,Customer 0258,C004,2025-02-14,32,Male,Email,Mobile,Hyderabad,0,1
+CU0259,Customer 0259,C009,2025-03-12,45,Male,Facebook,Mobile,Delhi,0,0
+CU0260,Customer 0260,C008,2025-03-08,50,Male,Instagram,Mobile,Hyderabad,1,1
+CU0261,Customer 0261,C011,2025-04-08,22,Female,YouTube,Mobile,Ahmedabad,0,1
+CU0262,Customer 0262,C009,2025-03-08,54,Female,Facebook,Mobile,Jaipur,2,1
+CU0263,Customer 0263,C020,2025-06-06,29,Male,Instagram,Mobile,Mumbai,2,1
+CU0264,Customer 0264,C001,2025-02-24,25,Female,Google Ads,Desktop,Kolkata,1,1
+CU0265,Customer 0265,C009,2025-03-16,28,Male,Facebook,Mobile,Guwahati,2,0
+CU0266,Customer 0266,C004,2025-02-20,55,Male,Email,Mobile,Chennai,0,0
+CU0267,Customer 0267,C003,2025-02-17,21,Female,Facebook,Desktop,Ahmedabad,0,0
+CU0268,Customer 0268,C009,2025-03-24,55,Male,Facebook,Mobile,Jaipur,2,1
+CU0269,Customer 0269,C002,2025-01-29,20,Male,Instagram,Mobile,Ahmedabad,0,1
+CU0270,Customer 0270,C001,2025-01-21,52,Male,Google Ads,Desktop,Mumbai,2,1
+CU0271,Customer 0271,C017,2025-05-12,28,Male,YouTube,Tablet,Mumbai,0,0
+CU0272,Customer 0272,C002,2025-01-09,52,Male,Instagram,Mobile,Chennai,0,0
+CU0273,Customer 0273,C001,2025-01-08,40,Male,Google Ads,Desktop,Bengaluru,1,1
+CU0274,Customer 0274,C003,2025-01-29,53,Male,Facebook,Mobile,Jaipur,2,0
+CU0275,Customer 0275,C002,2025-02-14,31,Male,Instagram,Mobile,Mumbai,2,1
+CU0276,Customer 0276,C008,2025-03-20,31,Male,Instagram,Tablet,Hyderabad,1,0
+CU0277,Customer 0277,C010,2025-03-31,26,Male,Email,Mobile,Chennai,2,1
+CU0278,Customer 0278,C019,2025-06-06,55,Female,Google Ads,Mobile,Pune,0,1
+CU0279,Customer 0279,C001,2025-02-25,42,Male,Google Ads,Mobile,Mumbai,0,0
+CU0280,Customer 0280,C009,2025-03-08,21,Male,Facebook,Desktop,Jaipur,1,0
+CU0281,Customer 0281,C016,2025-05-28,47,Male,Email,Mobile,Delhi,2,1
+CU0282,Customer 0282,C012,2025-04-30,26,Female,LinkedIn,Mobile,Mumbai,3,1
+CU0283,Customer 0283,C012,2025-04-09,32,Female,LinkedIn,Mobile,Bengaluru,1,0
+CU0284,Customer 0284,C020,2025-06-25,46,Female,Instagram,Mobile,Chennai,0,1
+CU0285,Customer 0285,C012,2025-05-12,20,Male,LinkedIn,Mobile,Pune,2,0
+CU0286,Customer 0286,C006,2025-03-02,42,Male,LinkedIn,Mobile,Hyderabad,0,1
+CU0287,Customer 0287,C010,2025-03-13,46,Female,Email,Mobile,Pune,1,1
+CU0288,Customer 0288,C017,2025-05-20,55,Female,YouTube,Mobile,Pune,0,1
+CU0289,Customer 0289,C007,2025-03-09,59,Female,Google Ads,Mobile,Jaipur,1,1
+CU0290,Customer 0290,C019,2025-06-05,28,Male,Google Ads,Tablet,Guwahati,1,0
+CU0291,Customer 0291,C013,2025-04-17,50,Female,Google Ads,Desktop,Ahmedabad,2,1
+CU0292,Customer 0292,C015,2025-05-14,37,Male,Facebook,Mobile,Bengaluru,1,1
+CU0293,Customer 0293,C019,2025-06-20,57,Male,Google Ads,Desktop,Ahmedabad,1,1
+CU0294,Customer 0294,C009,2025-03-14,19,Female,Facebook,Mobile,Ahmedabad,1,1
+CU0295,Customer 0295,C007,2025-03-16,20,Male,Google Ads,Desktop,Kolkata,1,1
+CU0296,Customer 0296,C008,2025-02-26,34,Female,Instagram,Mobile,Mumbai,1,1
+CU0297,Customer 0297,C005,2025-02-21,48,Female,YouTube,Desktop,Jaipur,0,1
+CU0298,Customer 0298,C011,2025-04-07,53,Female,YouTube,Mobile,Jaipur,1,0
+CU0299,Customer 0299,C002,2025-02-08,20,Female,Instagram,Desktop,Jaipur,1,0
+CU0300,Customer 0300,C004,2025-02-25,41,Female,Email,Mobile,Kolkata,1,0
+CU0301,Customer 0301,C015,2025-05-11,36,Female,Facebook,Mobile,Delhi,1,1
+CU0302,Customer 0302,C011,2025-05-08,55,Male,YouTube,Mobile,Delhi,2,1
+CU0303,Customer 0303,C017,2025-06-21,22,Male,YouTube,Mobile,Mumbai,2,1
+CU0304,Customer 0304,C010,2025-05-02,23,Female,Email,Mobile,Kolkata,0,0
+CU0305,Customer 0305,C005,2025-03-09,52,Female,YouTube,Mobile,Delhi,2,0
+CU0306,Customer 0306,C020,2025-06-17,49,Male,Instagram,Desktop,Kolkata,0,0
+CU0307,Customer 0307,C002,2025-01-29,40,Female,Instagram,Mobile,Delhi,0,1
+CU0308,Customer 0308,C017,2025-05-28,38,Male,YouTube,Desktop,Bengaluru,1,1
+CU0309,Customer 0309,C003,2025-01-28,51,Female,Facebook,Mobile,Guwahati,1,1
+CU0310,Customer 0310,C019,2025-06-13,25,Male,Google Ads,Desktop,Kolkata,1,0
+CU0311,Customer 0311,C002,2025-01-18,29,Male,Instagram,Mobile,Chennai,0,0
+CU0312,Customer 0312,C020,2025-06-09,29,Male,Instagram,Mobile,Mumbai,1,0
+CU0313,Customer 0313,C006,2025-03-03,53,Male,LinkedIn,Mobile,Pune,1,0
+CU0314,Customer 0314,C019,2025-06-09,31,Female,Google Ads,Mobile,Mumbai,2,1
+CU0315,Customer 0315,C009,2025-03-12,34,Female,Facebook,Desktop,Pune,0,0
+CU0316,Customer 0316,C005,2025-02-13,48,Female,YouTube,Mobile,Hyderabad,3,1
+CU0317,Customer 0317,C016,2025-05-11,19,Female,Email,Mobile,Pune,3,0
+CU0318,Customer 0318,C008,2025-03-03,47,Female,Instagram,Mobile,Bengaluru,2,0
+CU0319,Customer 0319,C005,2025-02-09,18,Male,YouTube,Desktop,Pune,1,1
+CU0320,Customer 0320,C004,2025-02-22,48,Male,Email,Mobile,Pune,0,0
+CU0321,Customer 0321,C013,2025-05-07,51,Female,Google Ads,Tablet,Hyderabad,0,1
+CU0322,Customer 0322,C002,2025-02-18,33,Male,Instagram,Mobile,Delhi,2,0
+CU0323,Customer 0323,C003,2025-01-23,40,Male,Facebook,Mobile,Chennai,1,1
+CU0324,Customer 0324,C001,2025-01-17,58,Male,Google Ads,Tablet,Kolkata,0,1
+CU0325,Customer 0325,C017,2025-07-01,40,Male,YouTube,Mobile,Ahmedabad,2,0
+CU0326,Customer 0326,C018,2025-06-12,41,Female,LinkedIn,Mobile,Bengaluru,0,0
+CU0327,Customer 0327,C018,2025-05-27,48,Male,LinkedIn,Desktop,Pune,1,0
+CU0328,Customer 0328,C015,2025-05-22,46,Male,Facebook,Desktop,Hyderabad,1,0
+CU0329,Customer 0329,C009,2025-03-10,22,Male,Facebook,Desktop,Jaipur,1,0
+CU0330,Customer 0330,C012,2025-04-01,53,Male,LinkedIn,Desktop,Mumbai,3,1
+CU0331,Customer 0331,C001,2025-03-01,44,Female,Google Ads,Desktop,Ahmedabad,0,1
+CU0332,Customer 0332,C011,2025-04-02,54,Female,YouTube,Mobile,Guwahati,2,1
+CU0333,Customer 0333,C019,2025-06-04,54,Male,Google Ads,Mobile,Hyderabad,2,1
+CU0334,Customer 0334,C018,2025-05-29,52,Male,LinkedIn,Mobile,Chennai,2,0
+CU0335,Customer 0335,C016,2025-05-08,26,Male,Email,Mobile,Pune,3,1
+CU0336,Customer 0336,C008,2025-03-03,53,Male,Instagram,Desktop,Hyderabad,1,0
+CU0337,Customer 0337,C001,2025-02-05,38,Male,Google Ads,Mobile,Jaipur,3,1
+CU0338,Customer 0338,C013,2025-05-12,55,Male,Google Ads,Desktop,Guwahati,0,1
+CU0339,Customer 0339,C003,2025-02-22,34,Male,Facebook,Mobile,Pune,2,1
+CU0340,Customer 0340,C001,2025-01-20,45,Male,Google Ads,Desktop,Pune,0,0
+CU0341,Customer 0341,C010,2025-04-28,47,Female,Email,Mobile,Hyderabad,1,1
+CU0342,Customer 0342,C007,2025-02-28,33,Male,Google Ads,Mobile,Bengaluru,3,0
+CU0343,Customer 0343,C008,2025-03-09,39,Female,Instagram,Mobile,Mumbai,3,1
+CU0344,Customer 0344,C012,2025-04-23,21,Male,LinkedIn,Tablet,Chennai,4,1
+CU0345,Customer 0345,C012,2025-04-04,59,Female,LinkedIn,Desktop,Ahmedabad,1,0
+CU0346,Customer 0346,C008,2025-03-04,21,Female,Instagram,Mobile,Guwahati,2,1
+CU0347,Customer 0347,C015,2025-05-22,58,Male,Facebook,Mobile,Guwahati,2,1
+CU0348,Customer 0348,C001,2025-02-19,55,Female,Google Ads,Desktop,Ahmedabad,1,1
+CU0349,Customer 0349,C018,2025-05-29,27,Male,LinkedIn,Mobile,Mumbai,0,1
+CU0350,Customer 0350,C012,2025-05-12,60,Male,LinkedIn,Desktop,Delhi,1,0
+CU0351,Customer 0351,C016,2025-05-03,52,Male,Email,Tablet,Ahmedabad,1,1
+CU0352,Customer 0352,C018,2025-06-03,40,Female,LinkedIn,Mobile,Delhi,1,0
+CU0353,Customer 0353,C002,2025-01-24,60,Female,Instagram,Mobile,Delhi,3,1
+CU0354,Customer 0354,C001,2025-02-12,56,Female,Google Ads,Mobile,Pune,4,1
+CU0355,Customer 0355,C010,2025-04-24,38,Male,Email,Desktop,Pune,2,1
+CU0356,Customer 0356,C003,2025-02-28,30,Female,Facebook,Mobile,Jaipur,0,0
+CU0357,Customer 0357,C002,2025-01-08,49,Female,Instagram,Desktop,Guwahati,1,1
+CU0358,Customer 0358,C003,2025-02-23,44,Male,Facebook,Mobile,Delhi,2,1
+CU0359,Customer 0359,C001,2025-02-19,18,Male,Google Ads,Desktop,Bengaluru,0,1
+CU0360,Customer 0360,C011,2025-04-30,58,Female,YouTube,Mobile,Guwahati,0,0
+CU0361,Customer 0361,C009,2025-03-08,22,Male,Facebook,Mobile,Mumbai,1,0
+CU0362,Customer 0362,C013,2025-04-12,24,Male,Google Ads,Desktop,Kolkata,4,1
+CU0363,Customer 0363,C016,2025-05-18,56,Male,Email,Mobile,Jaipur,1,0
+CU0364,Customer 0364,C001,2025-01-03,41,Female,Google Ads,Desktop,Bengaluru,3,0
+CU0365,Customer 0365,C020,2025-06-23,22,Female,Instagram,Mobile,Jaipur,0,1
+CU0366,Customer 0366,C006,2025-02-13,27,Male,LinkedIn,Mobile,Hyderabad,0,1
+CU0367,Customer 0367,C019,2025-06-14,21,Male,Google Ads,Mobile,Mumbai,3,1
+CU0368,Customer 0368,C005,2025-02-25,44,Female,YouTube,Mobile,Hyderabad,1,0
+CU0369,Customer 0369,C008,2025-03-13,33,Female,Instagram,Mobile,Ahmedabad,1,0
+CU0370,Customer 0370,C009,2025-03-21,28,Male,Facebook,Mobile,Jaipur,2,1
+CU0371,Customer 0371,C005,2025-02-01,42,Female,YouTube,Mobile,Jaipur,1,1
+CU0372,Customer 0372,C007,2025-02-22,18,Female,Google Ads,Desktop,Chennai,1,1
+CU0373,Customer 0373,C009,2025-03-13,30,Male,Facebook,Mobile,Bengaluru,0,1
+CU0374,Customer 0374,C017,2025-05-19,18,Female,YouTube,Mobile,Bengaluru,2,1
+CU0375,Customer 0375,C020,2025-06-03,57,Male,Instagram,Desktop,Delhi,1,0
+CU0376,Customer 0376,C019,2025-05-29,50,Female,Google Ads,Mobile,Kolkata,3,0
+CU0377,Customer 0377,C003,2025-02-03,29,Male,Facebook,Mobile,Ahmedabad,3,0
+CU0378,Customer 0378,C005,2025-02-08,24,Male,YouTube,Desktop,Mumbai,3,1
+CU0379,Customer 0379,C001,2025-02-18,29,Male,Google Ads,Mobile,Kolkata,1,1
+CU0380,Customer 0380,C014,2025-04-18,50,Male,Instagram,Mobile,Jaipur,1,1
+CU0381,Customer 0381,C015,2025-05-30,21,Female,Facebook,Desktop,Hyderabad,1,0
+CU0382,Customer 0382,C020,2025-06-24,35,Female,Instagram,Mobile,Jaipur,0,1
+CU0383,Customer 0383,C010,2025-03-29,19,Male,Email,Mobile,Jaipur,2,1
+CU0384,Customer 0384,C012,2025-04-04,20,Male,LinkedIn,Mobile,Mumbai,0,1
+CU0385,Customer 0385,C010,2025-04-19,39,Male,Email,Mobile,Chennai,0,0
+CU0386,Customer 0386,C020,2025-06-27,58,Male,Instagram,Desktop,Mumbai,2,1
+CU0387,Customer 0387,C003,2025-01-21,32,Female,Facebook,Desktop,Guwahati,2,1
+CU0388,Customer 0388,C002,2025-02-05,21,Female,Instagram,Mobile,Jaipur,0,0
+CU0389,Customer 0389,C019,2025-06-13,39,Male,Google Ads,Desktop,Jaipur,0,1
+CU0390,Customer 0390,C013,2025-04-09,24,Female,Google Ads,Mobile,Mumbai,3,1
+CU0391,Customer 0391,C016,2025-06-06,34,Male,Email,Mobile,Hyderabad,1,1
+CU0392,Customer 0392,C015,2025-05-06,21,Female,Facebook,Mobile,Ahmedabad,1,0
+CU0393,Customer 0393,C009,2025-03-14,37,Female,Facebook,Mobile,Guwahati,1,0
+CU0394,Customer 0394,C001,2025-02-26,22,Female,Google Ads,Mobile,Pune,1,1
+CU0395,Customer 0395,C001,2025-01-11,33,Male,Google Ads,Mobile,Chennai,4,1
+CU0396,Customer 0396,C010,2025-04-19,18,Female,Email,Desktop,Pune,0,1
+CU0397,Customer 0397,C009,2025-03-10,60,Female,Facebook,Mobile,Guwahati,3,0
+CU0398,Customer 0398,C011,2025-05-18,55,Male,YouTube,Mobile,Delhi,2,0
+CU0399,Customer 0399,C011,2025-05-17,30,Male,YouTube,Mobile,Chennai,0,0
+CU0400,Customer 0400,C004,2025-02-20,32,Female,Email,Desktop,Hyderabad,1,1
+CU0401,Customer 0401,C016,2025-05-28,22,Female,Email,Mobile,Kolkata,3,1
+CU0402,Customer 0402,C001,2025-01-04,29,Male,Google Ads,Mobile,Ahmedabad,1,1
+CU0403,Customer 0403,C020,2025-06-24,42,Female,Instagram,Mobile,Chennai,2,1
+CU0404,Customer 0404,C007,2025-03-04,50,Female,Google Ads,Mobile,Jaipur,0,0
+CU0405,Customer 0405,C007,2025-03-10,58,Male,Google Ads,Desktop,Chennai,3,1
+CU0406,Customer 0406,C015,2025-05-28,40,Female,Facebook,Desktop,Bengaluru,0,1
+CU0407,Customer 0407,C017,2025-07-01,57,Female,YouTube,Desktop,Hyderabad,1,0
+CU0408,Customer 0408,C017,2025-06-19,49,Male,YouTube,Desktop,Ahmedabad,1,1
+CU0409,Customer 0409,C009,2025-03-14,45,Female,Facebook,Mobile,Chennai,0,1
+CU0410,Customer 0410,C015,2025-05-19,41,Male,Facebook,Tablet,Jaipur,1,0
+CU0411,Customer 0411,C010,2025-04-21,59,Female,Email,Mobile,Delhi,2,1
+CU0412,Customer 0412,C013,2025-05-04,56,Male,Google Ads,Tablet,Guwahati,0,1
+CU0413,Customer 0413,C017,2025-05-10,24,Male,YouTube,Mobile,Kolkata,3,1
+CU0414,Customer 0414,C011,2025-04-21,43,Male,YouTube,Desktop,Hyderabad,3,0
+CU0415,Customer 0415,C019,2025-05-30,31,Female,Google Ads,Mobile,Delhi,1,1
+CU0416,Customer 0416,C014,2025-05-13,57,Male,Instagram,Desktop,Delhi,0,0
+CU0417,Customer 0417,C012,2025-05-14,57,Male,LinkedIn,Desktop,Bengaluru,1,1
+CU0418,Customer 0418,C013,2025-04-20,37,Male,Google Ads,Tablet,Ahmedabad,1,1
+CU0419,Customer 0419,C008,2025-03-23,21,Female,Instagram,Mobile,Ahmedabad,2,0
+CU0420,Customer 0420,C017,2025-05-16,45,Female,YouTube,Desktop,Pune,1,0
+CU0421,Customer 0421,C005,2025-03-04,34,Female,YouTube,Desktop,Chennai,1,1
+CU0422,Customer 0422,C017,2025-05-23,40,Female,YouTube,Mobile,Ahmedabad,3,1
+CU0423,Customer 0423,C013,2025-04-16,33,Male,Google Ads,Mobile,Jaipur,0,1
+CU0424,Customer 0424,C012,2025-04-07,28,Female,LinkedIn,Mobile,Ahmedabad,1,0
+CU0425,Customer 0425,C018,2025-06-16,55,Female,LinkedIn,Mobile,Hyderabad,1,1
+CU0426,Customer 0426,C014,2025-04-26,44,Male,Instagram,Desktop,Ahmedabad,4,1
+CU0427,Customer 0427,C005,2025-02-20,29,Female,YouTube,Mobile,Guwahati,1,1
+CU0428,Customer 0428,C003,2025-01-30,22,Male,Facebook,Mobile,Delhi,2,1
+CU0429,Customer 0429,C007,2025-03-01,55,Male,Google Ads,Desktop,Guwahati,1,1
+CU0430,Customer 0430,C020,2025-06-12,60,Female,Instagram,Desktop,Ahmedabad,0,1
+CU0431,Customer 0431,C015,2025-05-07,30,Female,Facebook,Tablet,Kolkata,2,0
+CU0432,Customer 0432,C003,2025-02-06,55,Female,Facebook,Desktop,Delhi,1,1
+CU0433,Customer 0433,C011,2025-05-17,52,Female,YouTube,Desktop,Kolkata,1,1
+CU0434,Customer 0434,C019,2025-05-25,27,Female,Google Ads,Mobile,Bengaluru,2,1
+CU0435,Customer 0435,C005,2025-02-05,38,Male,YouTube,Mobile,Hyderabad,3,1
+CU0436,Customer 0436,C018,2025-06-11,35,Male,LinkedIn,Tablet,Kolkata,1,0
+CU0437,Customer 0437,C009,2025-03-26,27,Male,Facebook,Mobile,Chennai,1,0
+CU0438,Customer 0438,C018,2025-07-01,34,Female,LinkedIn,Tablet,Delhi,0,0
+CU0439,Customer 0439,C011,2025-04-04,29,Male,YouTube,Desktop,Hyderabad,1,1
+CU0440,Customer 0440,C013,2025-04-07,54,Female,Google Ads,Mobile,Bengaluru,0,0
+CU0441,Customer 0441,C012,2025-05-07,60,Male,LinkedIn,Desktop,Pune,0,0
+CU0442,Customer 0442,C020,2025-06-20,33,Male,Instagram,Desktop,Chennai,3,0
+CU0443,Customer 0443,C009,2025-03-07,37,Female,Facebook,Desktop,Chennai,3,1
+CU0444,Customer 0444,C012,2025-05-16,34,Male,LinkedIn,Desktop,Mumbai,2,1
+CU0445,Customer 0445,C020,2025-06-18,55,Male,Instagram,Mobile,Bengaluru,1,0
+CU0446,Customer 0446,C008,2025-03-04,57,Male,Instagram,Mobile,Pune,0,0
+CU0447,Customer 0447,C010,2025-04-20,45,Female,Email,Mobile,Bengaluru,0,0
+CU0448,Customer 0448,C018,2025-06-22,41,Female,LinkedIn,Mobile,Hyderabad,1,1
+CU0449,Customer 0449,C005,2025-02-10,57,Male,YouTube,Mobile,Mumbai,0,1
+CU0450,Customer 0450,C017,2025-05-08,48,Female,YouTube,Mobile,Chennai,0,0
+CU0451,Customer 0451,C009,2025-03-26,30,Female,Facebook,Mobile,Mumbai,2,1
+CU0452,Customer 0452,C007,2025-03-01,34,Male,Google Ads,Desktop,Bengaluru,0,1
+CU0453,Customer 0453,C013,2025-04-21,26,Female,Google Ads,Mobile,Hyderabad,2,1
+CU0454,Customer 0454,C007,2025-02-20,42,Male,Google Ads,Mobile,Guwahati,3,0
+CU0455,Customer 0455,C004,2025-03-03,25,Female,Email,Desktop,Hyderabad,0,0
+CU0456,Customer 0456,C003,2025-02-12,20,Female,Facebook,Mobile,Hyderabad,2,1
+CU0457,Customer 0457,C006,2025-02-22,49,Female,LinkedIn,Tablet,Guwahati,2,0
+CU0458,Customer 0458,C009,2025-03-25,37,Female,Facebook,Mobile,Bengaluru,0,0
+CU0459,Customer 0459,C018,2025-07-03,37,Male,LinkedIn,Desktop,Hyderabad,0,1
+CU0460,Customer 0460,C013,2025-04-22,41,Male,Google Ads,Mobile,Chennai,0,1
+CU0461,Customer 0461,C015,2025-05-04,56,Female,Facebook,Mobile,Jaipur,3,0
+CU0462,Customer 0462,C013,2025-05-07,46,Male,Google Ads,Desktop,Kolkata,1,1
+CU0463,Customer 0463,C019,2025-06-07,26,Male,Google Ads,Mobile,Kolkata,0,1
+CU0464,Customer 0464,C001,2025-02-26,26,Male,Google Ads,Tablet,Mumbai,1,1
+CU0465,Customer 0465,C012,2025-04-30,31,Female,LinkedIn,Mobile,Pune,3,1
+CU0466,Customer 0466,C007,2025-03-19,34,Female,Google Ads,Mobile,Kolkata,2,1
+CU0467,Customer 0467,C005,2025-02-08,58,Female,YouTube,Mobile,Pune,0,0
+CU0468,Customer 0468,C008,2025-03-15,56,Male,Instagram,Mobile,Hyderabad,1,0
+CU0469,Customer 0469,C005,2025-02-04,39,Male,YouTube,Desktop,Bengaluru,1,0
+CU0470,Customer 0470,C009,2025-03-08,36,Male,Facebook,Mobile,Pune,1,1
+CU0471,Customer 0471,C016,2025-06-08,50,Female,Email,Tablet,Pune,2,1
+CU0472,Customer 0472,C016,2025-06-24,29,Female,Email,Mobile,Jaipur,1,1
+CU0473,Customer 0473,C010,2025-03-21,43,Male,Email,Desktop,Ahmedabad,0,1
+CU0474,Customer 0474,C003,2025-02-11,33,Female,Facebook,Mobile,Jaipur,1,1
+CU0475,Customer 0475,C018,2025-06-04,29,Female,LinkedIn,Mobile,Chennai,0,1
+CU0476,Customer 0476,C002,2025-02-06,20,Male,Instagram,Mobile,Bengaluru,1,0
+CU0477,Customer 0477,C001,2025-02-21,55,Female,Google Ads,Mobile,Ahmedabad,0,0
+CU0478,Customer 0478,C005,2025-02-06,60,Male,YouTube,Mobile,Chennai,3,0
+CU0479,Customer 0479,C003,2025-02-24,27,Female,Facebook,Tablet,Pune,2,0
+CU0480,Customer 0480,C005,2025-03-01,22,Female,YouTube,Desktop,Delhi,1,0
+CU0481,Customer 0481,C012,2025-04-09,56,Male,LinkedIn,Desktop,Pune,0,0
+CU0482,Customer 0482,C009,2025-03-11,48,Male,Facebook,Mobile,Delhi,0,1
+CU0483,Customer 0483,C012,2025-03-29,39,Male,LinkedIn,Tablet,Guwahati,0,0
+CU0484,Customer 0484,C010,2025-04-02,32,Female,Email,Mobile,Mumbai,1,0
+CU0485,Customer 0485,C017,2025-06-30,43,Female,YouTube,Mobile,Guwahati,2,1
+CU0486,Customer 0486,C008,2025-03-11,44,Female,Instagram,Mobile,Kolkata,0,1
+CU0487,Customer 0487,C005,2025-02-22,40,Female,YouTube,Mobile,Kolkata,1,0
+CU0488,Customer 0488,C018,2025-06-02,21,Female,LinkedIn,Tablet,Chennai,1,0
+CU0489,Customer 0489,C011,2025-05-06,52,Female,YouTube,Desktop,Bengaluru,1,0
+CU0490,Customer 0490,C008,2025-03-20,34,Female,Instagram,Mobile,Guwahati,2,1
+CU0491,Customer 0491,C005,2025-02-15,21,Male,YouTube,Mobile,Bengaluru,1,0
+CU0492,Customer 0492,C003,2025-01-23,41,Female,Facebook,Desktop,Jaipur,1,1
+CU0493,Customer 0493,C012,2025-05-06,59,Female,LinkedIn,Desktop,Mumbai,0,1
+CU0494,Customer 0494,C018,2025-05-20,46,Female,LinkedIn,Desktop,Chennai,3,1
+CU0495,Customer 0495,C006,2025-02-18,35,Female,LinkedIn,Mobile,Jaipur,1,1
+CU0496,Customer 0496,C003,2025-02-26,28,Female,Facebook,Tablet,Bengaluru,1,1
+CU0497,Customer 0497,C006,2025-02-11,39,Female,LinkedIn,Mobile,Chennai,0,0
+CU0498,Customer 0498,C003,2025-01-24,29,Female,Facebook,Mobile,Delhi,0,0
+CU0499,Customer 0499,C010,2025-03-31,22,Female,Email,Mobile,Chennai,1,1
+CU0500,Customer 0500,C016,2025-06-15,42,Male,Email,Desktop,Jaipur,1,0
+CU0501,Customer 0501,C014,2025-05-18,51,Male,Instagram,Mobile,Kolkata,2,1
+CU0502,Customer 0502,C002,2025-01-19,59,Male,Instagram,Mobile,Guwahati,0,0
+CU0503,Customer 0503,C016,2025-05-05,60,Female,Email,Mobile,Ahmedabad,1,0
+CU0504,Customer 0504,C002,2025-02-02,44,Female,Instagram,Mobile,Pune,2,1
+CU0505,Customer 0505,C012,2025-04-10,60,Female,LinkedIn,Mobile,Guwahati,0,0
+CU0506,Customer 0506,C005,2025-02-26,33,Male,YouTube,Mobile,Kolkata,0,1
+CU0507,Customer 0507,C010,2025-03-19,54,Female,Email,Mobile,Bengaluru,2,1
+CU0508,Customer 0508,C005,2025-02-27,46,Male,YouTube,Desktop,Bengaluru,1,1
+CU0509,Customer 0509,C004,2025-02-22,36,Female,Email,Desktop,Hyderabad,0,0
+CU0510,Customer 0510,C020,2025-06-15,53,Female,Instagram,Mobile,Mumbai,3,1
+CU0511,Customer 0511,C018,2025-06-02,22,Male,LinkedIn,Desktop,Kolkata,0,1
+CU0512,Customer 0512,C012,2025-05-01,30,Male,LinkedIn,Mobile,Chennai,0,1
+CU0513,Customer 0513,C003,2025-02-05,48,Female,Facebook,Tablet,Delhi,1,0
+CU0514,Customer 0514,C017,2025-06-08,33,Male,YouTube,Mobile,Kolkata,1,1
+CU0515,Customer 0515,C004,2025-01-30,43,Female,Email,Desktop,Guwahati,2,1
+CU0516,Customer 0516,C010,2025-03-19,19,Male,Email,Desktop,Mumbai,0,0
+CU0517,Customer 0517,C011,2025-03-31,20,Male,YouTube,Mobile,Guwahati,2,1
+CU0518,Customer 0518,C020,2025-06-06,45,Female,Instagram,Mobile,Ahmedabad,1,0
+CU0519,Customer 0519,C009,2025-03-26,59,Female,Facebook,Mobile,Hyderabad,0,0
+CU0520,Customer 0520,C009,2025-03-20,51,Male,Facebook,Mobile,Delhi,1,1
+CU0521,Customer 0521,C010,2025-04-13,51,Male,Email,Mobile,Delhi,1,1
+CU0522,Customer 0522,C002,2025-02-07,31,Male,Instagram,Mobile,Kolkata,2,1
+CU0523,Customer 0523,C014,2025-05-20,35,Male,Instagram,Mobile,Ahmedabad,1,0
+CU0524,Customer 0524,C004,2025-02-14,31,Female,Email,Desktop,Bengaluru,1,0
+CU0525,Customer 0525,C020,2025-06-18,55,Female,Instagram,Mobile,Kolkata,2,1
+CU0526,Customer 0526,C006,2025-02-20,33,Female,LinkedIn,Desktop,Chennai,0,0
+CU0527,Customer 0527,C017,2025-06-17,51,Female,YouTube,Mobile,Bengaluru,1,1
+CU0528,Customer 0528,C011,2025-04-22,48,Female,YouTube,Mobile,Mumbai,0,1
+CU0529,Customer 0529,C008,2025-03-09,37,Female,Instagram,Desktop,Hyderabad,2,0
+CU0530,Customer 0530,C008,2025-03-19,18,Male,Instagram,Mobile,Chennai,2,0
+CU0531,Customer 0531,C003,2025-02-04,20,Female,Facebook,Mobile,Kolkata,1,0
+CU0532,Customer 0532,C006,2025-02-16,46,Male,LinkedIn,Mobile,Mumbai,2,1
+CU0533,Customer 0533,C020,2025-06-09,56,Male,Instagram,Mobile,Mumbai,2,1
+CU0534,Customer 0534,C020,2025-06-15,39,Female,Instagram,Mobile,Bengaluru,1,1
+CU0535,Customer 0535,C011,2025-04-02,45,Female,YouTube,Mobile,Mumbai,3,1
+CU0536,Customer 0536,C010,2025-04-08,28,Male,Email,Mobile,Mumbai,1,1
+CU0537,Customer 0537,C010,2025-04-09,18,Female,Email,Desktop,Bengaluru,1,1
+CU0538,Customer 0538,C004,2025-02-17,29,Male,Email,Desktop,Mumbai,1,1
+CU0539,Customer 0539,C013,2025-04-30,21,Female,Google Ads,Tablet,Chennai,1,0
+CU0540,Customer 0540,C013,2025-04-28,45,Female,Google Ads,Tablet,Ahmedabad,2,1
+CU0541,Customer 0541,C003,2025-02-14,45,Female,Facebook,Mobile,Bengaluru,1,0
+CU0542,Customer 0542,C019,2025-06-15,42,Male,Google Ads,Desktop,Guwahati,1,1
+CU0543,Customer 0543,C007,2025-03-15,50,Female,Google Ads,Mobile,Delhi,0,1
+CU0544,Customer 0544,C004,2025-01-24,24,Male,Email,Mobile,Mumbai,0,1
+CU0545,Customer 0545,C004,2025-03-07,44,Male,Email,Desktop,Delhi,0,0
+CU0546,Customer 0546,C003,2025-02-15,21,Female,Facebook,Mobile,Ahmedabad,1,1
+CU0547,Customer 0547,C011,2025-03-22,29,Male,YouTube,Mobile,Ahmedabad,0,0
+CU0548,Customer 0548,C001,2025-02-27,43,Female,Google Ads,Mobile,Hyderabad,1,1
+CU0549,Customer 0549,C005,2025-02-18,48,Male,YouTube,Tablet,Jaipur,1,0
+CU0550,Customer 0550,C007,2025-02-25,38,Male,Google Ads,Desktop,Guwahati,1,1
+CU0551,Customer 0551,C007,2025-03-06,20,Female,Google Ads,Desktop,Hyderabad,0,1
+CU0552,Customer 0552,C011,2025-03-24,35,Male,YouTube,Mobile,Pune,2,0
+CU0553,Customer 0553,C016,2025-05-30,31,Female,Email,Mobile,Mumbai,2,1
+CU0554,Customer 0554,C005,2025-03-04,27,Female,YouTube,Desktop,Chennai,1,1
+CU0555,Customer 0555,C015,2025-05-26,23,Male,Facebook,Mobile,Mumbai,1,1
+CU0556,Customer 0556,C015,2025-04-25,38,Female,Facebook,Mobile,Chennai,2,1
+CU0557,Customer 0557,C007,2025-03-03,24,Male,Google Ads,Desktop,Hyderabad,2,0
+CU0558,Customer 0558,C014,2025-04-21,42,Male,Instagram,Mobile,Guwahati,3,1
+CU0559,Customer 0559,C006,2025-02-23,22,Female,LinkedIn,Mobile,Delhi,1,1
+CU0560,Customer 0560,C015,2025-04-30,57,Male,Facebook,Mobile,Guwahati,0,0
+CU0561,Customer 0561,C016,2025-05-02,43,Male,Email,Mobile,Pune,1,1
+CU0562,Customer 0562,C020,2025-06-22,35,Female,Instagram,Mobile,Ahmedabad,1,0
+CU0563,Customer 0563,C015,2025-05-04,28,Female,Facebook,Tablet,Kolkata,3,0
+CU0564,Customer 0564,C011,2025-05-14,39,Female,YouTube,Mobile,Mumbai,1,1
+CU0565,Customer 0565,C001,2025-01-19,45,Female,Google Ads,Mobile,Guwahati,3,1
+CU0566,Customer 0566,C016,2025-05-27,52,Male,Email,Tablet,Pune,0,0
+CU0567,Customer 0567,C008,2025-03-17,42,Female,Instagram,Mobile,Chennai,1,0
+CU0568,Customer 0568,C013,2025-05-18,35,Female,Google Ads,Mobile,Kolkata,1,1
+CU0569,Customer 0569,C018,2025-06-08,57,Female,LinkedIn,Mobile,Delhi,0,0
+CU0570,Customer 0570,C009,2025-03-25,48,Female,Facebook,Desktop,Guwahati,0,1
+CU0571,Customer 0571,C017,2025-06-04,58,Male,YouTube,Mobile,Delhi,2,1
+CU0572,Customer 0572,C011,2025-04-03,19,Male,YouTube,Mobile,Kolkata,1,0
+CU0573,Customer 0573,C017,2025-06-28,41,Female,YouTube,Mobile,Guwahati,0,1
+CU0574,Customer 0574,C011,2025-04-23,42,Male,YouTube,Mobile,Mumbai,2,1
+CU0575,Customer 0575,C010,2025-03-31,50,Male,Email,Mobile,Pune,0,1
+CU0576,Customer 0576,C013,2025-04-11,38,Male,Google Ads,Mobile,Jaipur,0,1
+CU0577,Customer 0577,C010,2025-03-22,47,Female,Email,Mobile,Pune,2,1
+CU0578,Customer 0578,C009,2025-03-17,26,Male,Facebook,Tablet,Mumbai,2,0
+CU0579,Customer 0579,C015,2025-04-23,46,Female,Facebook,Mobile,Ahmedabad,0,1
+CU0580,Customer 0580,C003,2025-01-24,47,Female,Facebook,Mobile,Kolkata,0,0
+CU0581,Customer 0581,C013,2025-04-17,54,Male,Google Ads,Desktop,Jaipur,1,1
+CU0582,Customer 0582,C007,2025-03-09,40,Female,Google Ads,Mobile,Mumbai,1,1
+CU0583,Customer 0583,C020,2025-06-12,34,Female,Instagram,Desktop,Ahmedabad,1,1
+CU0584,Customer 0584,C003,2025-02-02,28,Male,Facebook,Mobile,Kolkata,0,1
+CU0585,Customer 0585,C019,2025-06-08,41,Female,Google Ads,Mobile,Jaipur,1,1
+CU0586,Customer 0586,C019,2025-06-28,24,Male,Google Ads,Mobile,Jaipur,1,0
+CU0587,Customer 0587,C018,2025-06-12,33,Male,LinkedIn,Mobile,Guwahati,1,0
+CU0588,Customer 0588,C002,2025-02-12,42,Male,Instagram,Desktop,Chennai,1,1
+CU0589,Customer 0589,C014,2025-05-07,28,Male,Instagram,Mobile,Delhi,0,1
+CU0590,Customer 0590,C014,2025-06-03,43,Male,Instagram,Mobile,Pune,0,0
+CU0591,Customer 0591,C019,2025-06-12,49,Male,Google Ads,Desktop,Jaipur,2,1
+CU0592,Customer 0592,C003,2025-01-18,57,Female,Facebook,Desktop,Hyderabad,0,1
+CU0593,Customer 0593,C011,2025-05-01,50,Male,YouTube,Mobile,Kolkata,2,0
+CU0594,Customer 0594,C003,2025-02-19,31,Female,Facebook,Desktop,Guwahati,1,0
+CU0595,Customer 0595,C014,2025-06-02,32,Female,Instagram,Tablet,Delhi,1,1
+CU0596,Customer 0596,C015,2025-05-04,58,Male,Facebook,Desktop,Bengaluru,2,1
+CU0597,Customer 0597,C002,2025-01-25,24,Female,Instagram,Mobile,Jaipur,0,0
+CU0598,Customer 0598,C002,2025-01-24,54,Male,Instagram,Desktop,Bengaluru,2,0
+CU0599,Customer 0599,C017,2025-06-19,34,Male,YouTube,Mobile,Delhi,3,0
+CU0600,Customer 0600,C005,2025-02-20,33,Female,YouTube,Mobile,Pune,2,0
+CU0601,Customer 0601,C002,2025-02-05,55,Female,Instagram,Mobile,Delhi,1,0
+CU0602,Customer 0602,C004,2025-01-27,35,Female,Email,Mobile,Guwahati,1,1
+CU0603,Customer 0603,C006,2025-02-24,51,Female,LinkedIn,Desktop,Pune,0,1
+CU0604,Customer 0604,C018,2025-05-28,54,Female,LinkedIn,Desktop,Ahmedabad,3,1
+CU0605,Customer 0605,C004,2025-01-26,24,Male,Email,Mobile,Chennai,1,1
+CU0606,Customer 0606,C014,2025-06-01,60,Female,Instagram,Desktop,Jaipur,0,1
+CU0607,Customer 0607,C019,2025-05-29,37,Male,Google Ads,Mobile,Pune,1,1
+CU0608,Customer 0608,C015,2025-04-28,36,Male,Facebook,Mobile,Chennai,0,1
+CU0609,Customer 0609,C011,2025-04-09,46,Female,YouTube,Mobile,Delhi,1,0
+CU0610,Customer 0610,C017,2025-06-14,31,Female,YouTube,Mobile,Pune,0,0
+CU0611,Customer 0611,C019,2025-06-26,52,Male,Google Ads,Mobile,Bengaluru,1,1
+CU0612,Customer 0612,C001,2025-01-27,38,Female,Google Ads,Mobile,Hyderabad,0,1
+CU0613,Customer 0613,C001,2025-02-05,27,Male,Google Ads,Desktop,Jaipur,3,0
+CU0614,Customer 0614,C013,2025-04-09,31,Male,Google Ads,Mobile,Mumbai,1,1
+CU0615,Customer 0615,C012,2025-04-03,39,Male,LinkedIn,Mobile,Guwahati,0,1
+CU0616,Customer 0616,C006,2025-02-27,35,Male,LinkedIn,Mobile,Chennai,1,1
+CU0617,Customer 0617,C001,2025-01-15,53,Female,Google Ads,Desktop,Jaipur,2,1
+CU0618,Customer 0618,C006,2025-03-03,33,Male,LinkedIn,Mobile,Mumbai,1,1
+CU0619,Customer 0619,C009,2025-03-13,40,Female,Facebook,Desktop,Delhi,3,0
+CU0620,Customer 0620,C010,2025-03-19,43,Male,Email,Desktop,Kolkata,1,1
+CU0621,Customer 0621,C015,2025-06-02,29,Male,Facebook,Mobile,Guwahati,0,0
+CU0622,Customer 0622,C002,2025-02-12,24,Female,Instagram,Mobile,Chennai,1,0
+CU0623,Customer 0623,C011,2025-03-30,42,Female,YouTube,Mobile,Kolkata,1,1
+CU0624,Customer 0624,C001,2025-01-17,41,Female,Google Ads,Desktop,Jaipur,0,0
+CU0625,Customer 0625,C004,2025-02-09,34,Female,Email,Mobile,Pune,1,1
+CU0626,Customer 0626,C010,2025-04-26,34,Male,Email,Desktop,Bengaluru,1,1
+CU0627,Customer 0627,C017,2025-06-05,48,Male,YouTube,Tablet,Bengaluru,2,1
+CU0628,Customer 0628,C015,2025-05-19,54,Female,Facebook,Desktop,Bengaluru,2,0
+CU0629,Customer 0629,C003,2025-01-17,50,Male,Facebook,Mobile,Guwahati,1,0
+CU0630,Customer 0630,C017,2025-07-01,43,Female,YouTube,Tablet,Bengaluru,4,1
+CU0631,Customer 0631,C017,2025-06-01,27,Male,YouTube,Desktop,Ahmedabad,1,0
+CU0632,Customer 0632,C020,2025-06-16,24,Female,Instagram,Mobile,Ahmedabad,0,1
+CU0633,Customer 0633,C013,2025-04-25,20,Male,Google Ads,Mobile,Ahmedabad,2,0
+CU0634,Customer 0634,C012,2025-04-30,30,Male,LinkedIn,Mobile,Delhi,2,1
+CU0635,Customer 0635,C010,2025-03-21,40,Female,Email,Mobile,Guwahati,2,1
+CU0636,Customer 0636,C003,2025-01-27,57,Male,Facebook,Desktop,Mumbai,1,1
+CU0637,Customer 0637,C004,2025-02-14,35,Male,Email,Desktop,Hyderabad,1,1
+CU0638,Customer 0638,C016,2025-05-18,23,Male,Email,Desktop,Kolkata,2,1
+CU0639,Customer 0639,C005,2025-02-23,54,Female,YouTube,Desktop,Hyderabad,0,1
+CU0640,Customer 0640,C011,2025-04-27,25,Male,YouTube,Desktop,Mumbai,1,0
+CU0641,Customer 0641,C006,2025-02-20,51,Female,LinkedIn,Desktop,Guwahati,0,1
+CU0642,Customer 0642,C019,2025-05-24,29,Female,Google Ads,Mobile,Delhi,1,0
+CU0643,Customer 0643,C005,2025-02-19,19,Male,YouTube,Desktop,Delhi,0,1
+CU0644,Customer 0644,C011,2025-05-16,29,Female,YouTube,Mobile,Ahmedabad,1,1
+CU0645,Customer 0645,C020,2025-06-16,25,Male,Instagram,Mobile,Hyderabad,2,1
+CU0646,Customer 0646,C020,2025-06-24,40,Female,Instagram,Mobile,Ahmedabad,1,1
+CU0647,Customer 0647,C012,2025-04-07,23,Female,LinkedIn,Desktop,Hyderabad,1,0
+CU0648,Customer 0648,C006,2025-03-01,56,Male,LinkedIn,Mobile,Delhi,0,1
+CU0649,Customer 0649,C012,2025-05-15,59,Female,LinkedIn,Mobile,Jaipur,1,1
+CU0650,Customer 0650,C011,2025-04-12,51,Female,YouTube,Mobile,Chennai,0,1
+CU0651,Customer 0651,C008,2025-02-25,38,Male,Instagram,Mobile,Guwahati,1,0
+CU0652,Customer 0652,C018,2025-06-30,41,Male,LinkedIn,Mobile,Kolkata,0,0
+CU0653,Customer 0653,C011,2025-03-22,43,Male,YouTube,Mobile,Pune,2,1
+CU0654,Customer 0654,C016,2025-04-30,29,Male,Email,Mobile,Jaipur,2,1
+CU0655,Customer 0655,C013,2025-04-24,46,Female,Google Ads,Desktop,Ahmedabad,1,1
+CU0656,Customer 0656,C018,2025-05-28,54,Male,LinkedIn,Desktop,Kolkata,2,1
+CU0657,Customer 0657,C009,2025-03-19,54,Female,Facebook,Desktop,Ahmedabad,1,1
+CU0658,Customer 0658,C015,2025-06-02,24,Male,Facebook,Mobile,Mumbai,0,1
+CU0659,Customer 0659,C006,2025-02-09,21,Female,LinkedIn,Desktop,Kolkata,2,1
+CU0660,Customer 0660,C007,2025-03-01,40,Female,Google Ads,Mobile,Bengaluru,2,1
+CU0661,Customer 0661,C005,2025-03-05,45,Female,YouTube,Mobile,Hyderabad,2,0
+CU0662,Customer 0662,C002,2025-01-20,56,Male,Instagram,Mobile,Ahmedabad,2,1
+CU0663,Customer 0663,C009,2025-03-12,54,Male,Facebook,Tablet,Jaipur,0,1
+CU0664,Customer 0664,C019,2025-06-02,29,Male,Google Ads,Tablet,Delhi,0,1
+CU0665,Customer 0665,C012,2025-05-01,53,Female,LinkedIn,Mobile,Kolkata,0,0
+CU0666,Customer 0666,C002,2025-02-17,31,Male,Instagram,Mobile,Delhi,1,1
+CU0667,Customer 0667,C005,2025-03-06,59,Female,YouTube,Mobile,Ahmedabad,0,0
+CU0668,Customer 0668,C003,2025-02-26,56,Male,Facebook,Mobile,Hyderabad,1,1
+CU0669,Customer 0669,C004,2025-01-30,40,Male,Email,Tablet,Pune,1,1
+CU0670,Customer 0670,C008,2025-03-12,60,Male,Instagram,Desktop,Guwahati,3,1
+CU0671,Customer 0671,C012,2025-04-27,53,Female,LinkedIn,Desktop,Hyderabad,3,1
+CU0672,Customer 0672,C004,2025-02-23,48,Male,Email,Desktop,Kolkata,0,0
+CU0673,Customer 0673,C016,2025-06-05,38,Female,Email,Mobile,Kolkata,1,1
+CU0674,Customer 0674,C004,2025-02-28,37,Male,Email,Tablet,Chennai,0,1
+CU0675,Customer 0675,C002,2025-01-09,22,Female,Instagram,Tablet,Ahmedabad,1,1
+CU0676,Customer 0676,C010,2025-04-19,44,Male,Email,Desktop,Kolkata,0,0
+CU0677,Customer 0677,C007,2025-03-02,38,Male,Google Ads,Mobile,Jaipur,0,1
+CU0678,Customer 0678,C020,2025-06-08,55,Female,Instagram,Mobile,Bengaluru,1,0
+CU0679,Customer 0679,C011,2025-05-08,53,Male,YouTube,Mobile,Hyderabad,4,0
+CU0680,Customer 0680,C020,2025-06-20,55,Male,Instagram,Desktop,Kolkata,0,0
+CU0681,Customer 0681,C006,2025-02-27,50,Female,LinkedIn,Mobile,Ahmedabad,1,1
+CU0682,Customer 0682,C013,2025-05-13,37,Male,Google Ads,Mobile,Delhi,1,0
+CU0683,Customer 0683,C019,2025-06-05,40,Female,Google Ads,Mobile,Delhi,3,0
+CU0684,Customer 0684,C009,2025-03-21,44,Female,Facebook,Mobile,Bengaluru,1,0
+CU0685,Customer 0685,C007,2025-03-05,56,Male,Google Ads,Mobile,Bengaluru,3,1
+CU0686,Customer 0686,C019,2025-06-16,31,Female,Google Ads,Mobile,Jaipur,1,0
+CU0687,Customer 0687,C011,2025-04-24,40,Female,YouTube,Desktop,Jaipur,2,0
+CU0688,Customer 0688,C019,2025-06-04,37,Female,Google Ads,Mobile,Guwahati,0,1
+CU0689,Customer 0689,C007,2025-03-10,35,Male,Google Ads,Tablet,Delhi,2,1
+CU0690,Customer 0690,C002,2025-01-14,53,Male,Instagram,Mobile,Jaipur,1,0
+CU0691,Customer 0691,C003,2025-02-02,22,Male,Facebook,Mobile,Bengaluru,1,0
+CU0692,Customer 0692,C002,2025-02-19,31,Male,Instagram,Mobile,Bengaluru,0,1
+CU0693,Customer 0693,C015,2025-05-15,42,Female,Facebook,Desktop,Ahmedabad,1,1
+CU0694,Customer 0694,C012,2025-05-06,35,Male,LinkedIn,Mobile,Ahmedabad,2,0
+CU0695,Customer 0695,C007,2025-03-22,23,Male,Google Ads,Mobile,Ahmedabad,0,1
+CU0696,Customer 0696,C015,2025-05-05,23,Male,Facebook,Mobile,Mumbai,2,1
+CU0697,Customer 0697,C016,2025-05-16,24,Female,Email,Mobile,Bengaluru,0,0
+CU0698,Customer 0698,C020,2025-06-06,36,Female,Instagram,Desktop,Jaipur,0,1
+CU0699,Customer 0699,C006,2025-02-12,41,Female,LinkedIn,Mobile,Bengaluru,0,1
+CU0700,Customer 0700,C003,2025-02-15,42,Male,Facebook,Mobile,Hyderabad,1,1
+CU0701,Customer 0701,C009,2025-03-06,30,Male,Facebook,Mobile,Ahmedabad,1,0
+CU0702,Customer 0702,C012,2025-04-21,22,Male,LinkedIn,Desktop,Jaipur,0,1
+CU0703,Customer 0703,C013,2025-04-15,50,Female,Google Ads,Desktop,Mumbai,1,1
+CU0704,Customer 0704,C007,2025-02-26,59,Male,Google Ads,Mobile,Pune,0,1
+CU0705,Customer 0705,C013,2025-04-07,23,Female,Google Ads,Mobile,Bengaluru,1,1
+CU0706,Customer 0706,C007,2025-03-05,28,Male,Google Ads,Desktop,Hyderabad,1,1
+CU0707,Customer 0707,C015,2025-05-20,25,Female,Facebook,Desktop,Guwahati,1,1
+CU0708,Customer 0708,C006,2025-03-02,54,Male,LinkedIn,Mobile,Ahmedabad,0,1
+CU0709,Customer 0709,C012,2025-04-15,40,Female,LinkedIn,Mobile,Hyderabad,0,0
+CU0710,Customer 0710,C013,2025-05-16,33,Female,Google Ads,Desktop,Kolkata,0,0
+CU0711,Customer 0711,C013,2025-05-02,43,Male,Google Ads,Mobile,Kolkata,0,1
+CU0712,Customer 0712,C002,2025-01-22,49,Male,Instagram,Mobile,Mumbai,1,0
+CU0713,Customer 0713,C019,2025-05-27,20,Male,Google Ads,Mobile,Bengaluru,2,1
+CU0714,Customer 0714,C007,2025-03-19,55,Male,Google Ads,Mobile,Bengaluru,3,1
+CU0715,Customer 0715,C007,2025-02-17,42,Female,Google Ads,Mobile,Mumbai,0,1
+CU0716,Customer 0716,C012,2025-04-07,22,Female,LinkedIn,Mobile,Hyderabad,2,1
+CU0717,Customer 0717,C017,2025-06-23,23,Male,YouTube,Mobile,Ahmedabad,3,1
+CU0718,Customer 0718,C008,2025-03-01,32,Female,Instagram,Mobile,Kolkata,0,0
+CU0719,Customer 0719,C013,2025-04-21,60,Female,Google Ads,Desktop,Hyderabad,1,1
+CU0720,Customer 0720,C011,2025-03-28,25,Female,YouTube,Mobile,Hyderabad,0,0
+CU0721,Customer 0721,C020,2025-06-08,48,Male,Instagram,Mobile,Jaipur,0,0
+CU0722,Customer 0722,C016,2025-06-04,37,Female,Email,Mobile,Hyderabad,2,1
+CU0723,Customer 0723,C016,2025-06-06,48,Male,Email,Tablet,Jaipur,1,1
+CU0724,Customer 0724,C019,2025-06-20,45,Male,Google Ads,Desktop,Kolkata,2,1
+CU0725,Customer 0725,C002,2025-02-01,26,Female,Instagram,Mobile,Chennai,1,1
+CU0726,Customer 0726,C003,2025-01-21,23,Female,Facebook,Desktop,Ahmedabad,3,0
+CU0727,Customer 0727,C020,2025-06-01,18,Female,Instagram,Mobile,Kolkata,0,0
+CU0728,Customer 0728,C015,2025-04-24,28,Male,Facebook,Mobile,Ahmedabad,1,0
+CU0729,Customer 0729,C004,2025-02-08,57,Male,Email,Desktop,Mumbai,0,1
+CU0730,Customer 0730,C002,2025-01-18,18,Female,Instagram,Mobile,Bengaluru,1,0
+CU0731,Customer 0731,C018,2025-06-18,56,Female,LinkedIn,Mobile,Chennai,2,0
+CU0732,Customer 0732,C001,2025-02-06,32,Male,Google Ads,Desktop,Chennai,0,1
+CU0733,Customer 0733,C004,2025-02-24,45,Female,Email,Mobile,Pune,0,0
+CU0734,Customer 0734,C004,2025-02-17,33,Male,Email,Mobile,Kolkata,0,1
+CU0735,Customer 0735,C011,2025-05-04,54,Female,YouTube,Mobile,Bengaluru,2,0
+CU0736,Customer 0736,C002,2025-01-28,53,Male,Instagram,Mobile,Chennai,0,1
+CU0737,Customer 0737,C017,2025-05-23,48,Female,YouTube,Desktop,Guwahati,0,0
+CU0738,Customer 0738,C014,2025-04-27,50,Female,Instagram,Mobile,Ahmedabad,0,0
+CU0739,Customer 0739,C019,2025-06-11,54,Male,Google Ads,Mobile,Chennai,0,1
+CU0740,Customer 0740,C005,2025-02-17,59,Male,YouTube,Tablet,Guwahati,1,0
+CU0741,Customer 0741,C004,2025-02-28,35,Female,Email,Mobile,Delhi,1,1
+CU0742,Customer 0742,C015,2025-05-20,21,Male,Facebook,Mobile,Guwahati,1,0
+CU0743,Customer 0743,C019,2025-06-10,37,Male,Google Ads,Mobile,Jaipur,0,1
+CU0744,Customer 0744,C014,2025-05-16,45,Male,Instagram,Desktop,Delhi,1,0
+CU0745,Customer 0745,C009,2025-03-14,49,Female,Facebook,Mobile,Delhi,0,0
+CU0746,Customer 0746,C009,2025-03-06,20,Male,Facebook,Mobile,Mumbai,0,0
+CU0747,Customer 0747,C009,2025-03-06,58,Male,Facebook,Mobile,Delhi,0,1
+CU0748,Customer 0748,C005,2025-02-10,60,Female,YouTube,Mobile,Kolkata,1,0
+CU0749,Customer 0749,C003,2025-01-28,20,Male,Facebook,Desktop,Pune,2,0
+CU0750,Customer 0750,C017,2025-06-12,19,Female,YouTube,Desktop,Ahmedabad,0,0
+CU0751,Customer 0751,C020,2025-06-14,39,Female,Instagram,Mobile,Delhi,1,0
+CU0752,Customer 0752,C002,2025-01-16,37,Male,Instagram,Desktop,Kolkata,1,0
+CU0753,Customer 0753,C008,2025-03-22,44,Male,Instagram,Mobile,Delhi,0,1
+CU0754,Customer 0754,C009,2025-03-05,36,Female,Facebook,Desktop,Chennai,1,1
+CU0755,Customer 0755,C010,2025-04-09,22,Female,Email,Mobile,Hyderabad,1,1
+CU0756,Customer 0756,C001,2025-02-12,35,Male,Google Ads,Mobile,Ahmedabad,2,1
+CU0757,Customer 0757,C006,2025-02-10,23,Male,LinkedIn,Desktop,Ahmedabad,2,1
+CU0758,Customer 0758,C006,2025-02-22,39,Male,LinkedIn,Tablet,Chennai,3,1
+CU0759,Customer 0759,C013,2025-04-26,58,Male,Google Ads,Desktop,Jaipur,0,1
+CU0760,Customer 0760,C013,2025-05-09,51,Female,Google Ads,Mobile,Ahmedabad,2,1
+CU0761,Customer 0761,C003,2025-02-02,56,Female,Facebook,Mobile,Kolkata,1,1
+CU0762,Customer 0762,C001,2025-01-27,45,Female,Google Ads,Mobile,Jaipur,1,0
+CU0763,Customer 0763,C003,2025-02-06,53,Female,Facebook,Desktop,Mumbai,1,1
+CU0764,Customer 0764,C009,2025-03-15,33,Male,Facebook,Mobile,Mumbai,1,0
+CU0765,Customer 0765,C019,2025-06-18,46,Female,Google Ads,Desktop,Jaipur,0,1
+CU0766,Customer 0766,C018,2025-05-24,55,Female,LinkedIn,Mobile,Guwahati,2,0
+CU0767,Customer 0767,C004,2025-02-20,34,Female,Email,Desktop,Ahmedabad,3,1
+CU0768,Customer 0768,C005,2025-02-09,38,Female,YouTube,Mobile,Guwahati,2,1
+CU0769,Customer 0769,C019,2025-06-20,48,Female,Google Ads,Mobile,Delhi,1,1
+CU0770,Customer 0770,C005,2025-02-21,22,Male,YouTube,Mobile,Bengaluru,1,0
+CU0771,Customer 0771,C002,2025-02-08,43,Male,Instagram,Mobile,Mumbai,1,0
+CU0772,Customer 0772,C012,2025-05-15,42,Female,LinkedIn,Tablet,Kolkata,1,1
+CU0773,Customer 0773,C003,2025-02-04,48,Female,Facebook,Mobile,Hyderabad,3,1
+CU0774,Customer 0774,C013,2025-05-20,59,Female,Google Ads,Tablet,Pune,0,1
+CU0775,Customer 0775,C008,2025-03-14,40,Male,Instagram,Mobile,Delhi,1,1
+CU0776,Customer 0776,C016,2025-06-09,27,Male,Email,Desktop,Delhi,2,1
+CU0777,Customer 0777,C018,2025-06-13,40,Female,LinkedIn,Mobile,Guwahati,0,1
+CU0778,Customer 0778,C011,2025-04-06,31,Female,YouTube,Mobile,Mumbai,1,0
+CU0779,Customer 0779,C014,2025-05-16,56,Male,Instagram,Mobile,Guwahati,5,1
+CU0780,Customer 0780,C010,2025-03-22,41,Female,Email,Mobile,Ahmedabad,0,1
+CU0781,Customer 0781,C017,2025-05-23,24,Male,YouTube,Desktop,Pune,0,1
+CU0782,Customer 0782,C018,2025-06-27,53,Male,LinkedIn,Mobile,Jaipur,1,0
+CU0783,Customer 0783,C009,2025-03-25,55,Female,Facebook,Mobile,Chennai,1,1
+CU0784,Customer 0784,C002,2025-01-22,43,Female,Instagram,Mobile,Hyderabad,0,0
+CU0785,Customer 0785,C010,2025-04-13,34,Male,Email,Mobile,Ahmedabad,0,0
+CU0786,Customer 0786,C020,2025-06-18,35,Female,Instagram,Desktop,Mumbai,1,0
+CU0787,Customer 0787,C019,2025-06-22,45,Female,Google Ads,Mobile,Guwahati,2,1
+CU0788,Customer 0788,C011,2025-04-26,54,Female,YouTube,Desktop,Ahmedabad,1,0
+CU0789,Customer 0789,C018,2025-06-22,40,Female,LinkedIn,Desktop,Pune,2,0
+CU0790,Customer 0790,C018,2025-05-29,27,Female,LinkedIn,Tablet,Mumbai,0,1
+CU0791,Customer 0791,C011,2025-04-28,42,Female,YouTube,Desktop,Mumbai,3,0
+CU0792,Customer 0792,C005,2025-02-04,45,Male,YouTube,Mobile,Jaipur,1,1
+CU0793,Customer 0793,C001,2025-01-08,34,Female,Google Ads,Mobile,Hyderabad,1,1
+CU0794,Customer 0794,C013,2025-04-07,19,Female,Google Ads,Mobile,Guwahati,1,1
+CU0795,Customer 0795,C017,2025-06-08,23,Female,YouTube,Mobile,Delhi,0,1
+CU0796,Customer 0796,C006,2025-02-10,57,Female,LinkedIn,Mobile,Hyderabad,0,1
+CU0797,Customer 0797,C012,2025-04-09,60,Male,LinkedIn,Mobile,Chennai,2,1
+CU0798,Customer 0798,C010,2025-04-09,35,Male,Email,Mobile,Pune,3,0
+CU0799,Customer 0799,C001,2025-02-18,51,Male,Google Ads,Mobile,Ahmedabad,0,0
+CU0800,Customer 0800,C008,2025-03-24,56,Male,Instagram,Mobile,Kolkata,0,0
+CU0801,Customer 0801,C018,2025-06-28,42,Female,LinkedIn,Mobile,Kolkata,1,1
+CU0802,Customer 0802,C020,2025-06-19,28,Male,Instagram,Desktop,Chennai,1,1
+CU0803,Customer 0803,C019,2025-06-01,35,Female,Google Ads,Mobile,Ahmedabad,0,1
+CU0804,Customer 0804,C019,2025-06-07,33,Female,Google Ads,Mobile,Bengaluru,2,0
+CU0805,Customer 0805,C001,2025-02-17,27,Female,Google Ads,Desktop,Mumbai,0,1
+CU0806,Customer 0806,C016,2025-05-01,29,Male,Email,Desktop,Pune,4,1
+CU0807,Customer 0807,C012,2025-04-05,54,Male,LinkedIn,Mobile,Hyderabad,0,0
+CU0808,Customer 0808,C019,2025-06-24,44,Female,Google Ads,Desktop,Guwahati,1,1
+CU0809,Customer 0809,C008,2025-03-21,59,Male,Instagram,Mobile,Chennai,2,0
+CU0810,Customer 0810,C003,2025-02-08,51,Male,Facebook,Mobile,Pune,0,0
+CU0811,Customer 0811,C014,2025-05-21,25,Male,Instagram,Mobile,Pune,1,0
+CU0812,Customer 0812,C001,2025-02-16,33,Female,Google Ads,Mobile,Guwahati,2,1
+CU0813,Customer 0813,C019,2025-06-05,18,Male,Google Ads,Mobile,Pune,0,0
+CU0814,Customer 0814,C003,2025-01-26,29,Male,Facebook,Mobile,Guwahati,2,1
+CU0815,Customer 0815,C014,2025-05-22,57,Female,Instagram,Mobile,Bengaluru,2,0
+CU0816,Customer 0816,C006,2025-02-19,40,Male,LinkedIn,Desktop,Chennai,0,0
+CU0817,Customer 0817,C001,2025-02-27,46,Male,Google Ads,Mobile,Chennai,0,1
+CU0818,Customer 0818,C010,2025-04-29,43,Male,Email,Tablet,Delhi,2,1
+CU0819,Customer 0819,C017,2025-05-09,30,Female,YouTube,Mobile,Pune,2,1
+CU0820,Customer 0820,C008,2025-03-12,31,Female,Instagram,Mobile,Chennai,5,1
+CU0821,Customer 0821,C003,2025-02-23,24,Male,Facebook,Mobile,Chennai,0,0
+CU0822,Customer 0822,C008,2025-03-13,44,Female,Instagram,Desktop,Ahmedabad,1,0
+CU0823,Customer 0823,C008,2025-03-19,59,Female,Instagram,Desktop,Delhi,1,0
+CU0824,Customer 0824,C008,2025-03-02,55,Female,Instagram,Mobile,Bengaluru,0,1
+CU0825,Customer 0825,C012,2025-04-14,32,Female,LinkedIn,Mobile,Jaipur,2,0
+CU0826,Customer 0826,C020,2025-06-03,51,Male,Instagram,Mobile,Jaipur,0,0
+CU0827,Customer 0827,C008,2025-03-21,49,Male,Instagram,Mobile,Hyderabad,1,1
+CU0828,Customer 0828,C006,2025-02-28,22,Female,LinkedIn,Mobile,Hyderabad,0,1
+CU0829,Customer 0829,C020,2025-06-19,31,Female,Instagram,Mobile,Delhi,2,1
+CU0830,Customer 0830,C002,2025-01-14,40,Male,Instagram,Mobile,Hyderabad,1,1
+CU0831,Customer 0831,C002,2025-02-20,47,Female,Instagram,Tablet,Mumbai,1,0
+CU0832,Customer 0832,C017,2025-06-12,40,Male,YouTube,Desktop,Hyderabad,2,0
+CU0833,Customer 0833,C017,2025-06-16,57,Male,YouTube,Desktop,Pune,1,0
+CU0834,Customer 0834,C019,2025-05-29,33,Male,Google Ads,Mobile,Bengaluru,1,0
+CU0835,Customer 0835,C012,2025-05-12,27,Female,LinkedIn,Mobile,Guwahati,1,0
+CU0836,Customer 0836,C007,2025-03-05,46,Male,Google Ads,Mobile,Chennai,1,1
+CU0837,Customer 0837,C004,2025-02-28,45,Female,Email,Mobile,Mumbai,1,0
+CU0838,Customer 0838,C012,2025-05-01,24,Female,LinkedIn,Mobile,Delhi,0,1
+CU0839,Customer 0839,C002,2025-02-15,21,Female,Instagram,Mobile,Chennai,0,0
+CU0840,Customer 0840,C012,2025-04-16,24,Male,LinkedIn,Mobile,Kolkata,3,1
+CU0841,Customer 0841,C007,2025-03-07,23,Female,Google Ads,Desktop,Chennai,3,1
+CU0842,Customer 0842,C007,2025-02-25,42,Female,Google Ads,Mobile,Mumbai,0,0
+CU0843,Customer 0843,C011,2025-04-22,18,Female,YouTube,Mobile,Guwahati,0,0
+CU0844,Customer 0844,C014,2025-05-14,44,Female,Instagram,Mobile,Bengaluru,1,1
+CU0845,Customer 0845,C002,2025-01-29,22,Male,Instagram,Mobile,Bengaluru,0,0
+CU0846,Customer 0846,C007,2025-03-08,50,Male,Google Ads,Mobile,Guwahati,0,0
+CU0847,Customer 0847,C016,2025-06-24,37,Female,Email,Mobile,Pune,3,1
+CU0848,Customer 0848,C014,2025-06-01,44,Female,Instagram,Mobile,Ahmedabad,0,1
+CU0849,Customer 0849,C014,2025-05-07,20,Female,Instagram,Mobile,Guwahati,1,1
+CU0850,Customer 0850,C012,2025-04-26,60,Female,LinkedIn,Mobile,Kolkata,1,0
+CU0851,Customer 0851,C002,2025-01-17,27,Female,Instagram,Desktop,Bengaluru,1,0
+CU0852,Customer 0852,C013,2025-05-12,23,Female,Google Ads,Mobile,Hyderabad,2,1
+CU0853,Customer 0853,C016,2025-06-06,23,Male,Email,Desktop,Guwahati,1,0
+CU0854,Customer 0854,C011,2025-04-01,59,Male,YouTube,Desktop,Bengaluru,0,0
+CU0855,Customer 0855,C018,2025-06-25,41,Female,LinkedIn,Desktop,Chennai,0,1
+CU0856,Customer 0856,C002,2025-02-14,32,Female,Instagram,Mobile,Hyderabad,1,1
+CU0857,Customer 0857,C020,2025-06-10,55,Female,Instagram,Desktop,Delhi,0,0
+CU0858,Customer 0858,C020,2025-06-09,41,Male,Instagram,Mobile,Delhi,1,1
+CU0859,Customer 0859,C005,2025-02-11,18,Male,YouTube,Mobile,Mumbai,1,0
+CU0860,Customer 0860,C004,2025-02-04,39,Male,Email,Mobile,Guwahati,2,0
+CU0861,Customer 0861,C013,2025-04-21,41,Female,Google Ads,Mobile,Ahmedabad,0,1
+CU0862,Customer 0862,C001,2025-02-18,28,Female,Google Ads,Mobile,Kolkata,1,1
+CU0863,Customer 0863,C011,2025-03-23,27,Female,YouTube,Desktop,Ahmedabad,3,1
+CU0864,Customer 0864,C010,2025-03-14,34,Male,Email,Mobile,Chennai,1,1
+CU0865,Customer 0865,C017,2025-05-08,26,Male,YouTube,Mobile,Bengaluru,0,1
+CU0866,Customer 0866,C009,2025-03-13,39,Male,Facebook,Desktop,Chennai,1,1
+CU0867,Customer 0867,C007,2025-03-04,22,Male,Google Ads,Desktop,Kolkata,2,1
+CU0868,Customer 0868,C008,2025-02-25,19,Male,Instagram,Mobile,Delhi,0,1
+CU0869,Customer 0869,C004,2025-03-01,21,Female,Email,Tablet,Delhi,2,1
+CU0870,Customer 0870,C009,2025-03-07,56,Female,Facebook,Desktop,Ahmedabad,1,0
+CU0871,Customer 0871,C005,2025-02-22,58,Female,YouTube,Mobile,Chennai,1,1
+CU0872,Customer 0872,C002,2025-01-16,50,Female,Instagram,Mobile,Kolkata,0,0
+CU0873,Customer 0873,C014,2025-05-19,53,Female,Instagram,Desktop,Ahmedabad,0,1
+CU0874,Customer 0874,C004,2025-02-08,39,Male,Email,Mobile,Pune,0,1
+CU0875,Customer 0875,C018,2025-05-25,59,Female,LinkedIn,Mobile,Chennai,2,1
+CU0876,Customer 0876,C009,2025-03-06,50,Male,Facebook,Mobile,Ahmedabad,1,1
+CU0877,Customer 0877,C016,2025-05-14,45,Female,Email,Tablet,Guwahati,1,1
+CU0878,Customer 0878,C010,2025-04-13,52,Female,Email,Mobile,Guwahati,2,1
+CU0879,Customer 0879,C005,2025-02-06,47,Female,YouTube,Mobile,Bengaluru,2,0
+CU0880,Customer 0880,C003,2025-01-24,39,Female,Facebook,Desktop,Delhi,2,0
+CU0881,Customer 0881,C002,2025-02-08,59,Male,Instagram,Desktop,Kolkata,0,0
+CU0882,Customer 0882,C015,2025-06-04,25,Male,Facebook,Desktop,Delhi,1,0
+CU0883,Customer 0883,C011,2025-04-09,37,Female,YouTube,Mobile,Delhi,0,1
+CU0884,Customer 0884,C009,2025-03-18,48,Male,Facebook,Mobile,Hyderabad,0,1
+CU0885,Customer 0885,C016,2025-06-07,34,Female,Email,Desktop,Guwahati,0,1
+CU0886,Customer 0886,C016,2025-05-29,42,Male,Email,Desktop,Chennai,0,0
+CU0887,Customer 0887,C019,2025-06-23,43,Male,Google Ads,Mobile,Chennai,1,1
+CU0888,Customer 0888,C009,2025-03-17,52,Female,Facebook,Mobile,Kolkata,1,1
+CU0889,Customer 0889,C016,2025-05-01,55,Male,Email,Mobile,Ahmedabad,0,0
+CU0890,Customer 0890,C009,2025-03-14,21,Female,Facebook,Desktop,Hyderabad,0,0
+CU0891,Customer 0891,C003,2025-01-17,28,Female,Facebook,Mobile,Delhi,3,1
+CU0892,Customer 0892,C018,2025-06-14,42,Female,LinkedIn,Desktop,Pune,0,0
+CU0893,Customer 0893,C003,2025-02-28,39,Female,Facebook,Mobile,Mumbai,2,1
+CU0894,Customer 0894,C020,2025-06-03,28,Male,Instagram,Mobile,Pune,0,0
+CU0895,Customer 0895,C016,2025-06-16,44,Female,Email,Desktop,Bengaluru,2,1
+CU0896,Customer 0896,C016,2025-05-25,55,Male,Email,Mobile,Ahmedabad,0,0
+CU0897,Customer 0897,C013,2025-04-18,45,Female,Google Ads,Mobile,Hyderabad,1,1
+CU0898,Customer 0898,C016,2025-05-19,32,Male,Email,Mobile,Pune,0,1
+CU0899,Customer 0899,C015,2025-05-07,19,Female,Facebook,Mobile,Pune,0,0
+CU0900,Customer 0900,C020,2025-06-16,31,Male,Instagram,Mobile,Guwahati,3,0
+CU0901,Customer 0901,C015,2025-05-09,45,Male,Facebook,Desktop,Guwahati,2,1
+CU0902,Customer 0902,C006,2025-02-22,28,Female,LinkedIn,Desktop,Jaipur,1,0
+CU0903,Customer 0903,C020,2025-06-01,25,Female,Instagram,Desktop,Delhi,2,0
+CU0904,Customer 0904,C016,2025-06-13,32,Female,Email,Mobile,Hyderabad,0,0
+CU0905,Customer 0905,C015,2025-06-01,35,Female,Facebook,Desktop,Chennai,1,1
+CU0906,Customer 0906,C017,2025-05-12,24,Female,YouTube,Mobile,Mumbai,1,0
+CU0907,Customer 0907,C005,2025-02-03,26,Male,YouTube,Mobile,Ahmedabad,0,0
+CU0908,Customer 0908,C016,2025-05-08,30,Male,Email,Mobile,Bengaluru,0,0
+CU0909,Customer 0909,C018,2025-07-05,26,Female,LinkedIn,Mobile,Bengaluru,1,0
+CU0910,Customer 0910,C010,2025-04-17,37,Male,Email,Mobile,Delhi,1,0
+CU0911,Customer 0911,C012,2025-04-18,42,Female,LinkedIn,Desktop,Delhi,2,1
+CU0912,Customer 0912,C001,2025-01-17,42,Female,Google Ads,Desktop,Kolkata,1,1
+CU0913,Customer 0913,C018,2025-05-31,50,Male,LinkedIn,Mobile,Guwahati,1,1
+CU0914,Customer 0914,C015,2025-06-04,33,Male,Facebook,Desktop,Chennai,1,1
+CU0915,Customer 0915,C010,2025-04-16,40,Female,Email,Mobile,Chennai,1,1
+CU0916,Customer 0916,C001,2025-01-04,49,Female,Google Ads,Mobile,Guwahati,0,1
+CU0917,Customer 0917,C020,2025-06-15,30,Male,Instagram,Mobile,Mumbai,0,0
+CU0918,Customer 0918,C015,2025-05-01,58,Female,Facebook,Mobile,Bengaluru,2,1
+CU0919,Customer 0919,C005,2025-03-01,35,Female,YouTube,Mobile,Guwahati,4,1
+CU0920,Customer 0920,C007,2025-02-26,27,Male,Google Ads,Tablet,Kolkata,2,1
+CU0921,Customer 0921,C012,2025-04-01,26,Female,LinkedIn,Desktop,Chennai,1,1
+CU0922,Customer 0922,C019,2025-06-18,47,Female,Google Ads,Mobile,Guwahati,1,0
+CU0923,Customer 0923,C018,2025-06-10,25,Male,LinkedIn,Mobile,Chennai,3,1
+CU0924,Customer 0924,C013,2025-04-08,52,Female,Google Ads,Mobile,Bengaluru,0,0
+CU0925,Customer 0925,C015,2025-05-23,23,Male,Facebook,Mobile,Guwahati,1,1
+CU0926,Customer 0926,C002,2025-01-22,31,Female,Instagram,Mobile,Hyderabad,1,0
+CU0927,Customer 0927,C018,2025-06-12,26,Male,LinkedIn,Mobile,Pune,0,0
+CU0928,Customer 0928,C013,2025-05-18,29,Female,Google Ads,Mobile,Ahmedabad,0,1
+CU0929,Customer 0929,C014,2025-06-08,35,Male,Instagram,Mobile,Guwahati,1,1
+CU0930,Customer 0930,C004,2025-02-02,42,Female,Email,Mobile,Delhi,1,1
+CU0931,Customer 0931,C003,2025-02-11,42,Male,Facebook,Mobile,Chennai,1,1
+CU0932,Customer 0932,C015,2025-04-29,55,Male,Facebook,Desktop,Ahmedabad,1,0
+CU0933,Customer 0933,C019,2025-06-22,22,Female,Google Ads,Mobile,Mumbai,2,1
+CU0934,Customer 0934,C016,2025-06-13,57,Male,Email,Mobile,Bengaluru,0,1
+CU0935,Customer 0935,C017,2025-06-28,24,Female,YouTube,Mobile,Ahmedabad,3,0
+CU0936,Customer 0936,C018,2025-06-27,33,Female,LinkedIn,Mobile,Ahmedabad,1,1
+CU0937,Customer 0937,C003,2025-01-29,42,Female,Facebook,Tablet,Chennai,3,1
+CU0938,Customer 0938,C015,2025-05-17,18,Male,Facebook,Mobile,Jaipur,1,0
+CU0939,Customer 0939,C010,2025-03-29,53,Male,Email,Mobile,Kolkata,1,1
+CU0940,Customer 0940,C006,2025-02-21,39,Male,LinkedIn,Desktop,Kolkata,0,1
+CU0941,Customer 0941,C014,2025-05-30,22,Male,Instagram,Tablet,Delhi,0,1
+CU0942,Customer 0942,C010,2025-05-01,34,Male,Email,Mobile,Guwahati,2,1
+CU0943,Customer 0943,C001,2025-02-06,58,Male,Google Ads,Desktop,Pune,2,0
+CU0944,Customer 0944,C006,2025-02-09,42,Female,LinkedIn,Mobile,Ahmedabad,2,0
+CU0945,Customer 0945,C009,2025-03-21,53,Female,Facebook,Desktop,Bengaluru,0,0
+CU0946,Customer 0946,C018,2025-05-19,34,Male,LinkedIn,Mobile,Ahmedabad,1,1
+CU0947,Customer 0947,C006,2025-03-04,33,Male,LinkedIn,Mobile,Pune,1,1
+CU0948,Customer 0948,C015,2025-05-21,44,Male,Facebook,Mobile,Ahmedabad,0,1
+CU0949,Customer 0949,C009,2025-03-17,52,Female,Facebook,Mobile,Kolkata,0,1
+CU0950,Customer 0950,C020,2025-06-23,42,Female,Instagram,Mobile,Bengaluru,1,1
+CU0951,Customer 0951,C013,2025-04-16,47,Female,Google Ads,Mobile,Hyderabad,2,1
+CU0952,Customer 0952,C003,2025-01-19,33,Male,Facebook,Tablet,Jaipur,3,0
+CU0953,Customer 0953,C001,2025-02-13,53,Female,Google Ads,Desktop,Guwahati,1,0
+CU0954,Customer 0954,C011,2025-05-20,33,Male,YouTube,Desktop,Ahmedabad,1,0
+CU0955,Customer 0955,C017,2025-06-15,41,Female,YouTube,Mobile,Mumbai,2,0
+CU0956,Customer 0956,C002,2025-01-18,48,Female,Instagram,Desktop,Guwahati,1,1
+CU0957,Customer 0957,C016,2025-06-14,31,Male,Email,Desktop,Mumbai,0,1
+CU0958,Customer 0958,C011,2025-05-08,26,Male,YouTube,Desktop,Chennai,1,0
+CU0959,Customer 0959,C004,2025-01-26,41,Female,Email,Mobile,Chennai,1,1
+CU0960,Customer 0960,C019,2025-06-13,35,Female,Google Ads,Mobile,Guwahati,0,0
+CU0961,Customer 0961,C008,2025-03-11,22,Male,Instagram,Mobile,Kolkata,0,0
+CU0962,Customer 0962,C015,2025-05-08,20,Male,Facebook,Desktop,Pune,1,1
+CU0963,Customer 0963,C012,2025-03-29,20,Female,LinkedIn,Mobile,Jaipur,0,1
+CU0964,Customer 0964,C004,2025-02-06,44,Female,Email,Mobile,Mumbai,2,0
+CU0965,Customer 0965,C009,2025-03-07,55,Male,Facebook,Mobile,Chennai,1,1
+CU0966,Customer 0966,C019,2025-06-14,31,Female,Google Ads,Desktop,Guwahati,2,1
+CU0967,Customer 0967,C001,2025-02-02,46,Female,Google Ads,Mobile,Jaipur,3,1
+CU0968,Customer 0968,C013,2025-04-08,51,Female,Google Ads,Mobile,Chennai,1,0
+CU0969,Customer 0969,C005,2025-02-03,24,Male,YouTube,Desktop,Chennai,2,1
+CU0970,Customer 0970,C005,2025-02-28,25,Female,YouTube,Mobile,Delhi,1,0
+CU0971,Customer 0971,C001,2025-01-04,56,Male,Google Ads,Desktop,Guwahati,3,1
+CU0972,Customer 0972,C018,2025-06-15,59,Male,LinkedIn,Desktop,Jaipur,0,1
+CU0973,Customer 0973,C009,2025-03-14,33,Male,Facebook,Tablet,Mumbai,1,0
+CU0974,Customer 0974,C002,2025-01-14,38,Female,Instagram,Desktop,Hyderabad,2,0
+CU0975,Customer 0975,C020,2025-06-08,59,Female,Instagram,Mobile,Jaipur,2,0
+CU0976,Customer 0976,C006,2025-02-25,42,Male,LinkedIn,Tablet,Bengaluru,2,0
+CU0977,Customer 0977,C008,2025-03-13,48,Female,Instagram,Mobile,Guwahati,1,0
+CU0978,Customer 0978,C014,2025-05-18,54,Male,Instagram,Mobile,Chennai,1,0
+CU0979,Customer 0979,C006,2025-03-02,51,Female,LinkedIn,Tablet,Pune,0,0
+CU0980,Customer 0980,C004,2025-02-19,45,Female,Email,Mobile,Bengaluru,1,1
+CU0981,Customer 0981,C009,2025-03-13,44,Female,Facebook,Mobile,Pune,0,0
+CU0982,Customer 0982,C001,2025-01-01,29,Male,Google Ads,Tablet,Kolkata,2,0
+CU0983,Customer 0983,C008,2025-02-27,42,Male,Instagram,Mobile,Pune,0,0
+CU0984,Customer 0984,C001,2025-02-16,35,Female,Google Ads,Desktop,Hyderabad,2,0
+CU0985,Customer 0985,C006,2025-03-02,33,Male,LinkedIn,Desktop,Guwahati,2,1
+CU0986,Customer 0986,C012,2025-05-08,20,Female,LinkedIn,Mobile,Hyderabad,2,0
+CU0987,Customer 0987,C007,2025-03-15,53,Female,Google Ads,Mobile,Delhi,4,1
+CU0988,Customer 0988,C010,2025-04-06,30,Male,Email,Mobile,Chennai,0,1
+CU0989,Customer 0989,C017,2025-05-30,53,Female,YouTube,Mobile,Delhi,1,0
+CU0990,Customer 0990,C011,2025-04-02,25,Female,YouTube,Desktop,Bengaluru,0,0
+CU0991,Customer 0991,C009,2025-03-11,40,Male,Facebook,Desktop,Kolkata,1,1
+CU0992,Customer 0992,C016,2025-05-20,19,Male,Email,Desktop,Pune,1,1
+CU0993,Customer 0993,C001,2025-01-29,22,Female,Google Ads,Mobile,Pune,3,1
+CU0994,Customer 0994,C007,2025-03-06,28,Female,Google Ads,Mobile,Hyderabad,3,0
+CU0995,Customer 0995,C011,2025-04-04,50,Female,YouTube,Mobile,Ahmedabad,1,0
+CU0996,Customer 0996,C005,2025-03-09,31,Female,YouTube,Mobile,Pune,0,1
+CU0997,Customer 0997,C015,2025-04-25,47,Female,Facebook,Mobile,Jaipur,0,1
+CU0998,Customer 0998,C014,2025-06-06,27,Male,Instagram,Mobile,Chennai,0,0
+CU0999,Customer 0999,C013,2025-04-18,36,Female,Google Ads,Mobile,Hyderabad,2,1
+CU1000,Customer 1000,C017,2025-07-01,60,Male,YouTube,Mobile,Bengaluru,2,0
